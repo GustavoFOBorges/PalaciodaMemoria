@@ -1,0 +1,656 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ARQUIP - Palácio da Memória</title>
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+
+  <!-- Bootstrap 5 via CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <style>
+    body {
+      background-color: #f8f9fa;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .modal-body {
+      max-height: 80vh;
+      overflow-y: auto;
+
+      & button {
+        font-size: 12px;
+      }
+
+    }
+
+    .main-container {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 25px;
+      /*border: 1px solid #dee2e6;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      */
+      background-color: #f8f9fa;
+    }
+
+    h2 {
+      text-align: center;
+      color: #343a40;
+    }
+
+    .search-and-carousel-section {
+      border-radius: 12px;
+      padding: 2rem 1rem;
+    }
+
+    #siteSearch {
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+      transition: box-shadow 0.2s ease, border-color 0.2s ease;
+    }
+
+    #siteSearch:focus {
+      border-color: #86b7fe;
+      box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    }
+
+    .carousel-container {
+      position: relative;
+      max-width: 100%;
+      margin: 2.5rem auto !important;
+      padding: 0 15px;
+    }
+
+    .carousel-wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 50px;
+      height: 220px;
+      overflow-x: auto;
+      scroll-behavior: smooth;
+    }
+
+    .carousel-site {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      width: 140px;
+      flex-shrink: 0;
+      opacity: 0.5;
+      filter: grayscale(60%);
+      transform: scale(0.85);
+      transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    }
+
+    .carousel-site.active {
+      opacity: 1;
+      filter: grayscale(0%);
+      transform: scale(1.3);
+      z-index: 10;
+    }
+
+    .site-thumb {
+      width: 120px;
+      height: 90px;
+      object-fit: cover;
+      border: 2px solid transparent;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      transition: all 0.4s ease;
+      margin-bottom: 10px;
+    }
+
+    .carousel-site.active .site-thumb {
+      border-color: #0881c8;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    }
+
+    .site-btn {
+      font-size: 0.7rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 100%;
+    }
+
+    .carousel-site.active .site-btn {
+      background-color: #0881c8;
+      color: white;
+    }
+
+    .carousel-arrow {
+      cursor: pointer;
+      font-size: 1rem;
+      user-select: none;
+      position: absolute;
+      top: 45%;
+      transform: translateY(-50%);
+      z-index: 20;
+      color: #0881c8;
+      background-color: rgba(255, 255, 255, 0.7);
+      backdrop-filter: blur(3px);
+      border-radius: 50%;
+      width: 35px;
+      height: 35px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      transition: all 0.2s ease-in-out;
+    }
+
+    .carousel-arrow:hover {
+      background-color: white;
+      transform: translateY(-50%) scale(1.1);
+    }
+
+    .carousel-arrow.left {
+      left: 0;
+    }
+
+    .carousel-arrow.right {
+      right: 0;
+    }
+
+    #calendarContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .calendar-label {
+      font-weight: 600;
+      font-size: 1.1rem;
+      color: #333;
+    }
+
+    .calendar-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+      margin-bottom: 15px;
+    }
+
+    .calendar-item {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.2s;
+      min-width: 40px;
+      text-align: center;
+    }
+
+    .calendar-item:hover {
+      transform: scale(1.05);
+      border-color: #007bff;
+    }
+
+    .calendar-item.available {
+      background-color: #28a745;
+      color: white;
+      border-color: #28a745;
+    }
+
+    .iframe-wrapper {
+      display: none;
+      position: relative;
+      width: 100%;
+      height: 600px;
+      margin-top: 1rem;
+      border-radius: 0.5rem;
+      border: 1px solid #ccc;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    #previewFrame {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    #loadingFrame {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      display: none;
+      text-align: center;
+    }
+
+    .modal-body button {
+      margin-bottom: 5px;
+    }
+
+    button {
+      background-color: #0881c8;
+    }
+
+    /* RESPONSIVO */
+    @media (max-width: 768px) {
+      .carousel-wrapper {
+        gap: 15px;
+        height: 180px;
+      }
+
+      .carousel-site {
+        width: 120px;
+      }
+
+      .site-thumb {
+        width: 100px;
+        height: 70px;
+      }
+
+      .carousel-arrow {
+        width: 30px;
+        height: 30px;
+      }
+    }
+
+    @media (max-width: 576px) {
+      .carousel-wrapper {
+        gap: 10px;
+        height: 160px;
+      }
+
+      .carousel-site {
+        width: 100px;
+      }
+
+      .site-thumb {
+        width: 80px;
+        height: 60px;
+      }
+
+      #siteSearch {
+        font-size: 0.9rem;
+      }
+
+      #fetchBtn {
+        font-size: 0.9rem;
+        padding: 0.5rem 0.75rem;
+      }
+    }
+  </style>
+
+</head>
+<header id="header" class="header topbar">
+
+  <!-- start Top Bar -->
+
+  <div class="topbar d-flex align-items-center dark-background">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <i class="d-flex align-items-center"><a href="https://prefeitura.sp.gov.br">Prefeitura de São Paulo</a></i>
+        <i class="d-flex align-items-center ms-4"><a href="https://esic.prefeitura.sp.gov.br">E-Sic</a></i>
+        <i class="d-flex align-items-center ms-4"><a href="https://arquip.prefeitura.sp.gov.br">Arquip</a></i>
+      </div>
+    </div>
+  </div>
+
+  <!-- End Top Bar -->
+
+  <div class="branding">
+
+    <div class="container position-relative d-flex align-items-center justify-content-between">
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <img src="assets/img/palaciodamemoria-logo.png" alt="">
+
+      </a>
+
+
+
+    </div>
+
+  </div>
+
+</header>
+
+<body>
+
+  <main class="main-container">
+    <h2>Sites .prefeitura</h2>
+
+    <div class="search-and-carousel-section mb-3 mt-4 text-center">
+      <p>Acesse os sites do domínio da Prefeitura de São Paulo e suas versões ao longo do tempo.</p>
+
+      <div class="row justify-content-center">
+        <div class="col-md-8">
+          <input type="text" id="siteSearch" class="form-control mb-2" placeholder="Buscar site...">
+          <button class="btn btn-outline-secondary" id="showAllBtn">Ver todos os sites</button>
+        </div>
+      </div>
+
+      <div class="carousel-container">
+        <i class="bi bi-chevron-left carousel-arrow left" id="prevBtn"></i>
+        <div id="carouselWrapper" class="carousel-wrapper"></div>
+        <i class="bi bi-chevron-right carousel-arrow right" id="nextBtn"></i>
+      </div>
+
+      <button id="fetchBtn" class="btn btn-primary btn-lg mb-3 w-100"
+        style="max-width:550px;   background-color: #0881c8;">Buscar datas</button>
+      <div id="messageContainer" class="text-center text-danger mb-3"></div>
+      <div id="progressContainer" class="progress mb-3 mx-auto" style="display: none; max-width: 550px;">
+        <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%;"></div>
+      </div>
+
+    </div>
+
+
+
+    <!-- Modal Sites -->
+    <div class="modal fade" id="allSitesModal" tabindex="-1" aria-labelledby="allSitesModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="allSitesModalLabel">Lista completa de sites</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+          </div>
+          <div class="modal-body" id="allSitesList"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Datas + Visualizador -->
+    <div class="modal fade" id="datesViewerModal" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width: 95vw;">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Datas Disponíveis e Visualizador</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+          </div>
+          <div class="modal-body position-relative" style="height: 80vh;">
+            <!-- Calendário -->
+            <div id="calendarContainer">
+              <div class="calendar-label">Ano</div>
+              <div id="yearBar" class="calendar-bar"></div>
+              <div class="calendar-label">Mês</div>
+              <div id="monthBar" class="calendar-bar"></div>
+              <div class="calendar-label">Dia</div>
+              <div id="dayBar" class="calendar-bar"></div>
+            </div>
+
+            <!-- Visualizador -->
+            <div id="iframeWrapper" class="iframe-wrapper">
+              <div id="loadingFrame" class="d-flex flex-column align-items-center justify-content-center h-100">
+                <div class="spinner-border text-primary" role="status"></div>
+                <p class="mt-2">Carregando site...</p>
+              </div>
+              <iframe id="previewFrame" title="Visualizador"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const carouselWrapper = document.getElementById('carouselWrapper');
+        const progressContainer = document.getElementById('progressContainer');
+        const progressBar = document.getElementById('progressBar');
+        const messageContainer = document.getElementById('messageContainer');
+        const fetchBtn = document.getElementById('fetchBtn');
+        const iframe = document.getElementById('previewFrame');
+        const iframeWrapper = document.getElementById('iframeWrapper');
+        const loadingFrame = document.getElementById('loadingFrame');
+        const siteSearch = document.getElementById('siteSearch');
+        const showAllBtn = document.getElementById('showAllBtn');
+        const allSitesList = document.getElementById('allSitesList');
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+
+        const yearBar = document.getElementById('yearBar');
+        const monthBar = document.getElementById('monthBar');
+        const dayBar = document.getElementById('dayBar');
+        const monthLabel = monthBar.previousElementSibling;
+        const dayLabel = dayBar.previousElementSibling;
+
+        const datesViewerModal = new bootstrap.Modal(document.getElementById('datesViewerModal'));
+
+        let allSites = [];
+        let displayedSites = [];
+        let currentIndex = 0;
+
+        // Carrega lista de sites
+        async function loadSites() {
+          try {
+            const res = await fetch('sites.txt');
+            if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+            const textData = await res.text();
+            allSites = textData.split('\n').map(u => u.trim()).filter(u => u.length > 0);
+            displayedSites = [...allSites];
+            renderCarousel();
+          } catch (err) {
+            messageContainer.textContent = 'Erro ao carregar a lista de sites: ' + err.message;
+          }
+        }
+
+        // Renderiza carousel
+        function renderCarousel() {
+          carouselWrapper.innerHTML = '';
+          const numSites = displayedSites.length;
+          if (!numSites) {
+            carouselWrapper.innerHTML = '<p class="text-muted">Nenhum site encontrado.</p>';
+            return;
+          }
+          currentIndex = Math.max(0, Math.min(currentIndex, numSites - 1));
+          const prevIndex = (currentIndex - 1 + numSites) % numSites;
+          const nextIndex = (currentIndex + 1) % numSites;
+
+          let finalIndices = numSites === 1 ? [0] : numSites === 2 ? [0, 1] : [prevIndex, currentIndex, nextIndex];
+
+          finalIndices.forEach(index => createCarouselItem(displayedSites[index], index === currentIndex));
+        }
+
+        function createCarouselItem(site, isActive) {
+          const div = document.createElement('div');
+          div.className = 'carousel-site' + (isActive ? ' active' : '');
+          const displayName = site.replace(/^(?:https?:\/\/)?(?:www\.)?/i, '');
+          div.innerHTML = `
+      <img src="https://s.wordpress.com/mshots/v1/${encodeURIComponent(site)}?w=160&h=120"
+           alt="Thumbnail de ${site}"
+           class="site-thumb"
+           onerror="this.src='default-thumb.png'">
+      <button class="btn btn-sm btn-outline-primary w-100 site-btn" data-site="${site}" title="${site}">${displayName}</button>
+    `;
+          carouselWrapper.appendChild(div);
+        }
+
+        // Reset UI antes de buscar snapshots
+        function resetUI() {
+          messageContainer.textContent = 'Carregando site...';
+          iframeWrapper.style.display = 'none';
+          iframe.src = '';
+          loadingFrame.style.display = 'block';
+          progressContainer.style.display = 'block';
+          progressBar.style.width = '10%';
+        }
+
+        // Busca snapshots via Wayback
+        async function fetchSnapshots() {
+          if (!displayedSites[currentIndex]) {
+            messageContainer.textContent = 'Por favor, selecione um site.';
+            return;
+          }
+
+          resetUI();
+          const selectedSite = displayedSites[currentIndex];
+
+          try {
+            const res = await fetch(`/api/wayback?url=${encodeURIComponent(selectedSite)}&limit=200`);
+            if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+            const data = await res.json();
+            const snapshots = data.snapshots || [];
+            if (!snapshots.length) {
+              messageContainer.textContent = 'Não foram encontradas datas disponíveis para este site.';
+              return;
+            }
+            showDatesModal(snapshots);
+          } catch (err) {
+            messageContainer.textContent = 'Erro ao buscar datas: ' + err.message;
+          } finally {
+            progressContainer.style.display = 'none';
+            progressBar.style.width = '0%';
+          }
+        }
+
+        // Mostra modal de datas
+        function showDatesModal(snapshots) {
+          yearBar.innerHTML = '';
+          monthBar.innerHTML = '';
+          dayBar.innerHTML = '';
+          monthBar.style.display = 'none';
+          dayBar.style.display = 'none';
+          monthLabel.style.display = 'none';
+          dayLabel.style.display = 'none';
+
+          const years = {};
+          snapshots.forEach(s => {
+            const y = s.timestamp.slice(0, 4);
+            const m = s.timestamp.slice(4, 6);
+            const d = s.timestamp.slice(6, 8);
+            if (!years[y]) years[y] = {};
+            if (!years[y][m]) years[y][m] = [];
+            years[y][m].push(d);
+          });
+
+          Object.keys(years).sort((a, b) => b - a).forEach(y => {
+            const btn = document.createElement('button');
+            btn.className = 'btn btn-outline-success mb-1';
+            btn.textContent = y;
+            btn.onclick = () => renderMonths(y, years[y]);
+            yearBar.appendChild(btn);
+          });
+
+          datesViewerModal.show();
+        }
+
+        function renderMonths(year, months) {
+          monthBar.innerHTML = '';
+          dayBar.innerHTML = '';
+          monthBar.style.display = 'flex';
+          monthLabel.style.display = 'block';
+          dayBar.style.display = 'none';
+          dayLabel.style.display = 'none';
+
+          Object.keys(months).sort().forEach(m => {
+            const btn = document.createElement('button');
+            btn.className = 'btn btn-outline-success mb-1';
+            btn.textContent = m;
+            btn.onclick = () => renderDays(year, m, months[m]);
+            monthBar.appendChild(btn);
+          });
+        }
+
+        function renderDays(year, month, days) {
+          dayBar.innerHTML = '';
+          dayBar.style.display = 'flex';
+          dayLabel.style.display = 'block';
+
+          days.sort().forEach(d => {
+            const btn = document.createElement('button');
+            btn.className = 'btn btn-outline-success mb-1';
+            btn.textContent = d;
+            btn.onclick = () => openSnapshot(`${year}${month}${d}000000`);
+            dayBar.appendChild(btn);
+          });
+        }
+
+        // Abre snapshot no iframe dentro do mesmo modal
+        function openSnapshot(timestamp) {
+          const selectedSite = displayedSites[currentIndex];
+          const url = `https://web.archive.org/web/${timestamp}/${selectedSite}`;
+
+          iframeWrapper.style.display = 'block';
+          iframe.style.display = 'none';
+          loadingFrame.style.display = 'flex';
+          iframe.src = '';
+
+          setTimeout(() => { iframe.src = url; }, 100);
+        }
+
+        // Quando o iframe carrega
+        iframe.addEventListener('load', () => {
+          loadingFrame.style.display = 'none';
+          iframe.style.display = 'block';
+          messageContainer.textContent = '';
+        });
+
+        // Navegação carousel
+        prevBtn.addEventListener('click', () => {
+          if (!displayedSites.length) return;
+          currentIndex = (currentIndex - 1 + displayedSites.length) % displayedSites.length;
+          renderCarousel();
+        });
+
+        nextBtn.addEventListener('click', () => {
+          if (!displayedSites.length) return;
+          currentIndex = (currentIndex + 1) % displayedSites.length;
+          renderCarousel();
+        });
+
+        // Seleciona site clicando no carousel
+        carouselWrapper.addEventListener('click', (e) => {
+          const siteBtn = e.target.closest('.site-btn');
+          if (siteBtn) {
+            currentIndex = displayedSites.findIndex(s => s === siteBtn.dataset.site);
+            renderCarousel();
+            messageContainer.textContent = '';
+          }
+        });
+
+        // Busca por nome
+        siteSearch.addEventListener('input', () => {
+          displayedSites = allSites.filter(s => s.toLowerCase().includes(siteSearch.value.toLowerCase()));
+          currentIndex = 0;
+          renderCarousel();
+        });
+
+        // Mostra lista completa
+        showAllBtn.addEventListener('click', () => {
+          allSitesList.innerHTML = '';
+          allSites.forEach(site => {
+            const btn = document.createElement('button');
+            btn.className = 'btn btn-outline-primary w-100 mb-1';
+            btn.textContent = site;
+            btn.onclick = () => {
+              siteSearch.value = '';
+              displayedSites = [...allSites];
+              currentIndex = allSites.findIndex(s => s === site);
+              renderCarousel();
+              allSitesList.innerHTML = '';
+              datesViewerModal.hide();
+            };
+            allSitesList.appendChild(btn);
+          });
+          const allSitesModal = new bootstrap.Modal(document.getElementById('allSitesModal'));
+          allSitesModal.show();
+        });
+
+        // Botão Buscar datas
+        fetchBtn.addEventListener('click', fetchSnapshots);
+
+        // Inicializa
+        loadSites();
+      });
+    </script>
+
+</body>
+
+</html>

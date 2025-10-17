@@ -1,0 +1,1351 @@
+
+011lab.prefeitura.sp.gov.br
+22mais100.prefeitura.sp.gov.br
+abrilpradanca.prefeitura.sp.gov.br
+www.abrilpradanca.prefeitura.sp.gov.br
+acaofamilia.prefeitura.sp.gov.br
+www.acaofamilia.prefeitura.sp.gov.br
+acessibilidade.prefeitura.sp.gov.br
+www.acessibilidade.prefeitura.sp.gov.br
+adocaopracas.prefeitura.sp.gov.br
+agendacadunico.prefeitura.sp.gov.br
+agendadesc.prefeitura.sp.gov.br
+agendafacil.prefeitura.sp.gov.br
+agendamentosel.prefeitura.sp.gov.br
+agendamentosf.prefeitura.sp.gov.br
+agendamentosmit.prefeitura.sp.gov.br
+agendao.prefeitura.sp.gov.br
+agendasg.prefeitura.sp.gov.br
+areaprivada.ahm.prefeitura.sp.gov.br
+www.areaprivada.ahm.prefeitura.sp.gov.br
+telemedicina.ahm.prefeitura.sp.gov.br
+happs.telemedicina.ahm.prefeitura.sp.gov.br
+m.telemedicina.ahm.prefeitura.sp.gov.br
+www.telemedicina.ahm.prefeitura.sp.gov.br
+aihcomplexo.prefeitura.sp.gov.br
+happs.aihcomplexo.prefeitura.sp.gov.br
+m.aihcomplexo.prefeitura.sp.gov.br
+www.aihcomplexo.prefeitura.sp.gov.br
+aihregulacao.prefeitura.sp.gov.br
+aiuvl.prefeitura.sp.gov.br
+www.aiuvl.prefeitura.sp.gov.br
+ajatc.prefeitura.sp.gov.br
+ajlegis.prefeitura.sp.gov.br
+akamai.prefeitura.sp.gov.br
+suporte.alosaude.prefeitura.sp.gov.br
+m.suporte.alosaude.prefeitura.sp.gov.br
+www.suporte.alosaude.prefeitura.sp.gov.br
+apidriver-hom-sptaxi.prefeitura.sp.gov.br
+apilib.prefeitura.sp.gov.br
+www.apilib.apilib.prefeitura.sp.gov.br
+gateway.apilib.prefeitura.sp.gov.br
+homolog.gateway.apilib.prefeitura.sp.gov.br
+www.gateway.apilib.prefeitura.sp.gov.br
+homolog.apilib.prefeitura.sp.gov.br
+www.homolog.apilib.prefeitura.sp.gov.br
+www.apilib.prefeitura.sp.gov.br
+apipassenger-hom-sptaxi.prefeitura.sp.gov.br
+apissaude.prefeitura.sp.gov.br
+apissaudegss.prefeitura.sp.gov.br
+sf5106.app.prefeitura.sp.gov.br
+sf8117.app.prefeitura.sp.gov.br
+sf8424.app.prefeitura.sp.gov.br
+sf9042.app.prefeitura.sp.gov.br
+sf9414.app.prefeitura.sp.gov.br
+sf9465.app.prefeitura.sp.gov.br
+appmulherws.prefeitura.sp.gov.br
+aprovaintegrador.prefeitura.sp.gov.br
+aprovasp.prefeitura.sp.gov.br
+aquitemremedio.prefeitura.sp.gov.br
+arcodofuturo.prefeitura.sp.gov.br
+arcotiete.prefeitura.sp.gov.br
+arduinoday2023.prefeitura.sp.gov.br
+areaprivada.prefeitura.sp.gov.br
+www.areaprivada.prefeitura.sp.gov.br
+aricanduva.prefeitura.sp.gov.br
+arquip.prefeitura.sp.gov.br
+arquivohistorico.prefeitura.sp.gov.br
+arquivopublico.prefeitura.sp.gov.br
+atendimentoprocon.prefeitura.sp.gov.br
+www.atendimentoprocon.prefeitura.sp.gov.br
+ati.prefeitura.sp.gov.br
+dev.ati.prefeitura.sp.gov.br
+atlasambiental.prefeitura.sp.gov.br
+aultimahomenagem.prefeitura.sp.gov.br
+www.aultimahomenagem.prefeitura.sp.gov.br
+autodiscover.prefeitura.sp.gov.br
+autoexch.prefeitura.sp.gov.br
+avaemsaude.prefeitura.sp.gov.br
+avancasaude-bid.prefeitura.sp.gov.br
+avancatech.prefeitura.sp.gov.br
+bal.prefeitura.sp.gov.br
+bancodetalentos.prefeitura.sp.gov.br
+dev.bancodetalentos.prefeitura.sp.gov.br
+bdc.prefeitura.sp.gov.br
+www.bibliografiainfantilejuvenil.prefeitura.sp.gov.br
+biblioteca-pgm.prefeitura.sp.gov.br
+bibliotecacircula.prefeitura.sp.gov.br
+bibliotecas.prefeitura.sp.gov.br
+biodiversidade.prefeitura.sp.gov.br
+www.biodiversidade.prefeitura.sp.gov.br
+biosampa.prefeitura.sp.gov.br
+biosampaindicadores.prefeitura.sp.gov.br
+biosampamapas.prefeitura.sp.gov.br
+biosampawm.prefeitura.sp.gov.br
+boletimgestao.prefeitura.sp.gov.br
+buscasaude.prefeitura.sp.gov.br
+buscasaudews.prefeitura.sp.gov.br
+business.prefeitura.sp.gov.br
+www.business.prefeitura.sp.gov.br
+butanta.prefeitura.sp.gov.br
+cacplus.prefeitura.sp.gov.br
+admin.cacplus.prefeitura.sp.gov.br
+cacservico.prefeitura.sp.gov.br
+cadan.prefeitura.sp.gov.br
+cadastrobp.prefeitura.sp.gov.br
+cadastroilume.prefeitura.sp.gov.br
+cadin.prefeitura.sp.gov.br
+cadsamsp.prefeitura.sp.gov.br
+cafehacker.prefeitura.sp.gov.br
+campolimpo.prefeitura.sp.gov.br
+capac.prefeitura.sp.gov.br
+capeladosocorro.prefeitura.sp.gov.br
+carnaval2024.prefeitura.sp.gov.br
+www.carnaval2024.prefeitura.sp.gov.br
+carnavalderua.prefeitura.sp.gov.br
+www.carnavalderua.prefeitura.sp.gov.br
+carnavalderuasp.prefeitura.sp.gov.br
+www.carnavalderuasp.prefeitura.sp.gov.br
+casaverde.prefeitura.sp.gov.br
+cate.prefeitura.sp.gov.br
+www.cate.prefeitura.sp.gov.br
+ccgrajau.prefeitura.sp.gov.br
+ccj.prefeitura.sp.gov.br
+www.ccj.prefeitura.sp.gov.br
+ccjuventude.prefeitura.sp.gov.br
+ccm.prefeitura.sp.gov.br
+ccolido.prefeitura.sp.gov.br
+cediconshistorico.prefeitura.sp.gov.br
+cejuread.prefeitura.sp.gov.br
+centraldevagas.prefeitura.sp.gov.br
+centrodajuventude.prefeitura.sp.gov.br
+www.centrodajuventude.prefeitura.sp.gov.br
+www.centroolimpico.prefeitura.sp.gov.br
+centrosculturaiseteatros.prefeitura.sp.gov.br
+duvidas.cents.prefeitura.sp.gov.br
+cetae.prefeitura.sp.gov.br
+cetdigital.prefeitura.sp.gov.br
+cfcct.prefeitura.sp.gov.br
+cfciead.prefeitura.sp.gov.br
+www.cfciead.prefeitura.sp.gov.br
+cge.prefeitura.sp.gov.br
+www.cge.prefeitura.sp.gov.br
+autodiscover.cgm.prefeitura.sp.gov.br
+chamadorsmt.prefeitura.sp.gov.br
+chuvasdeverao.prefeitura.sp.gov.br
+www.chuvasdeverao.prefeitura.sp.gov.br
+cidadeademar.prefeitura.sp.gov.br
+cidadelimpa.prefeitura.sp.gov.br
+cidadetiradentes.prefeitura.sp.gov.br
+circuitomunicipaldecultura.prefeitura.sp.gov.br
+www.circuitomunicipaldecultura.prefeitura.sp.gov.br
+circuitospdecultura.prefeitura.sp.gov.br
+www.circuitospdecultura.prefeitura.sp.gov.br
+citycameras.prefeitura.sp.gov.br
+www.citycameras.prefeitura.sp.gov.br
+clic.prefeitura.sp.gov.br
+cmh.prefeitura.sp.gov.br
+cmpu.prefeitura.sp.gov.br
+cmtteleicoes.prefeitura.sp.gov.br
+codigoaberto.prefeitura.sp.gov.br
+cohab.prefeitura.sp.gov.br
+cojuratc.prefeitura.sp.gov.br
+combateromosquito.prefeitura.sp.gov.br
+compras.prefeitura.sp.gov.br
+conecta.prefeitura.sp.gov.br
+www.conecta.prefeitura.sp.gov.br
+conecta2.prefeitura.sp.gov.br
+conferenciadacidade2024.prefeitura.sp.gov.br
+www.conferenciadacidade2024.prefeitura.sp.gov.br
+conferenciadecultura.prefeitura.sp.gov.br
+www.conferenciadecultura.prefeitura.sp.gov.br
+conselho.prefeitura.sp.gov.br
+conselhodehabitacao.prefeitura.sp.gov.br
+www.conselhodehabitacao.prefeitura.sp.gov.br
+conselhoparticipativocandidatos2019.prefeitura.sp.gov.br
+conselhoparticipativomunicipalpoliticaurbana.prefeitura.sp.gov.br
+consultacpm.prefeitura.sp.gov.br
+consultadiretrizes.prefeitura.sp.gov.br
+consultamei.prefeitura.sp.gov.br
+consultasiszon.prefeitura.sp.gov.br
+consultausointensivoviario.prefeitura.sp.gov.br
+consultaveiculoguinchado.prefeitura.sp.gov.br
+consumidor.prefeitura.sp.gov.br
+www.consumidor.prefeitura.sp.gov.br
+contasistema.prefeitura.sp.gov.br
+contratacaosme.prefeitura.sp.gov.br
+contratosartisticosftm.prefeitura.sp.gov.br
+www.contratosartisticosftm.prefeitura.sp.gov.br
+contratossp.prefeitura.sp.gov.br
+controladoriageralbens.prefeitura.sp.gov.br
+spmaissegura.controle.prefeitura.sp.gov.br
+www.controleempauta.prefeitura.sp.gov.br
+convias.prefeitura.sp.gov.br
+duvidas.copats.prefeitura.sp.gov.br
+copicola.prefeitura.sp.gov.br
+correio.prefeitura.sp.gov.br
+correioweb.prefeitura.sp.gov.br
+cosip.prefeitura.sp.gov.br
+cpom.prefeitura.sp.gov.br
+crdanca.prefeitura.sp.gov.br
+credenciamentoescolar.prefeitura.sp.gov.br
+csmb.prefeitura.sp.gov.br
+csmb1.prefeitura.sp.gov.br
+cultura.prefeitura.sp.gov.br
+minuta.cultura.prefeitura.sp.gov.br
+news.cultura.prefeitura.sp.gov.br
+suporte.cultura.prefeitura.sp.gov.br
+www.suporte.cultura.prefeitura.sp.gov.br
+www.cultura.prefeitura.sp.gov.br
+www.cupomzonaazul.prefeitura.sp.gov.br
+curriculo.prefeitura.sp.gov.br
+dados.prefeitura.sp.gov.br
+dados-abertos-observasampa.prefeitura.sp.gov.br
+dadosradares.prefeitura.sp.gov.br
+dame.prefeitura.sp.gov.br
+dappseme.prefeitura.sp.gov.br
+dbahom.prefeitura.sp.gov.br
+dec.prefeitura.sp.gov.br
+deferimentocontratacaosme.prefeitura.sp.gov.br
+defesadoconsumidor.prefeitura.sp.gov.br
+www.defesadoconsumidor.prefeitura.sp.gov.br
+defuturo.prefeitura.sp.gov.br
+www.defuturo.prefeitura.sp.gov.br
+demonstrativoiptu2014.prefeitura.sp.gov.br
+deolhonacarteirinha.prefeitura.sp.gov.br
+deolhonafila.prefeitura.sp.gov.br
+duvidas.depats.prefeitura.sp.gov.br
+depositoadministrativo.prefeitura.sp.gov.br
+des-iss.prefeitura.sp.gov.br
+descomplicagc.prefeitura.sp.gov.br
+descomplicasp.prefeitura.sp.gov.br
+agendamento.descomplicasp.prefeitura.sp.gov.br
+dev.descomplicasp.prefeitura.sp.gov.br
+www.dev.descomplicasp.prefeitura.sp.gov.br
+desif.prefeitura.sp.gov.br
+desif-homologb.prefeitura.sp.gov.br
+dev-idsampa.prefeitura.sp.gov.br
+devprodam-idsampa.prefeitura.sp.gov.br
+devsf9421oauth.prefeitura.sp.gov.br
+dialogoaberto.prefeitura.sp.gov.br
+ftp.dialogoaberto.prefeitura.sp.gov.br
+mail.dialogoaberto.prefeitura.sp.gov.br
+painel.dialogoaberto.prefeitura.sp.gov.br
+webmail.dialogoaberto.prefeitura.sp.gov.br
+www.dialogoaberto.prefeitura.sp.gov.br
+diariooficial.prefeitura.sp.gov.br
+dicionarioderuas.prefeitura.sp.gov.br
+api.dicionarioderuas.prefeitura.sp.gov.br
+www.dicionarioderuas.prefeitura.sp.gov.br
+dif-iss.prefeitura.sp.gov.br
+dipam.prefeitura.sp.gov.br
+www.dipam.prefeitura.sp.gov.br
+direitoacidade.prefeitura.sp.gov.br
+www.direitoacidade.prefeitura.sp.gov.br
+direitoshumanos.prefeitura.sp.gov.br
+www.direitoshumanos.prefeitura.sp.gov.br
+distritoscriativos.prefeitura.sp.gov.br
+divapgm.prefeitura.sp.gov.br
+dividaativa.prefeitura.sp.gov.br
+doc.prefeitura.sp.gov.br
+documentosprojetosptrans.prefeitura.sp.gov.br
+downloadfolhasscm.prefeitura.sp.gov.br
+www.dstaids.prefeitura.sp.gov.br
+dsup.prefeitura.sp.gov.br
+dsvae.prefeitura.sp.gov.br
+dsvdigital.prefeitura.sp.gov.br
+dsvdigitalwebapi.prefeitura.sp.gov.br
+dtol.prefeitura.sp.gov.br
+duc.prefeitura.sp.gov.br
+e-licenca.prefeitura.sp.gov.br
+e-negocioscidadesp.prefeitura.sp.gov.br
+www.e-negocioscidadesp.prefeitura.sp.gov.br
+e-saudesp.prefeitura.sp.gov.br
+suporte.e-saudesp.prefeitura.sp.gov.br
+suportedticucp.e-saudesp.prefeitura.sp.gov.br
+suporteunidades.e-saudesp.prefeitura.sp.gov.br
+e-saudesp-telemedicina.prefeitura.sp.gov.br
+e-saudesp-vacina.prefeitura.sp.gov.br
+e-sic.prefeitura.sp.gov.br
+ead.prefeitura.sp.gov.br
+eadatendimento.prefeitura.sp.gov.br
+eadcate.prefeitura.sp.gov.br
+edemocracia.prefeitura.sp.gov.br
+editalegiptu.prefeitura.sp.gov.br
+editalprojeto.prefeitura.sp.gov.br
+educacao.prefeitura.sp.gov.br
+portalinterativo.educacao.prefeitura.sp.gov.br
+ef-ccot.prefeitura.sp.gov.br
+egocet.prefeitura.sp.gov.br
+eleicaocmpu.prefeitura.sp.gov.br
+eleicaocmpu2021.prefeitura.sp.gov.br
+www.eleicaocmpu2021.prefeitura.sp.gov.br
+eleicaocmpu2023.prefeitura.sp.gov.br
+www.eleicaocmpu2023.prefeitura.sp.gov.br
+eleicaocpm2015.prefeitura.sp.gov.br
+www.eleicaocpm2015.prefeitura.sp.gov.br
+eleicaoiprem.prefeitura.sp.gov.br
+eleicoescmdca.prefeitura.sp.gov.br
+emasp.prefeitura.sp.gov.br
+emaspead.prefeitura.sp.gov.br
+emcartaz.prefeitura.sp.gov.br
+www.emcartaz.prefeitura.sp.gov.br
+emitir-nota-fiscal-mei.prefeitura.sp.gov.br
+empreendafacil.prefeitura.sp.gov.br
+www.empreendafacil.prefeitura.sp.gov.br
+ems.prefeitura.sp.gov.br
+ead.ems.prefeitura.sp.gov.br
+m.ems.prefeitura.sp.gov.br
+sistemas.ems.prefeitura.sp.gov.br
+www.ems.prefeitura.sp.gov.br
+emscovid19.prefeitura.sp.gov.br
+m.emscovid19.prefeitura.sp.gov.br
+www.emscovid19.prefeitura.sp.gov.br
+encontro011lab.prefeitura.sp.gov.br
+enterpriseenrollment.prefeitura.sp.gov.br
+enterpriseregistration.prefeitura.sp.gov.br
+eol.prefeitura.sp.gov.br
+eol-hom.prefeitura.sp.gov.br
+eol-trn.prefeitura.sp.gov.br
+eolgerenciamento.prefeitura.sp.gov.br
+www.eolgerenciamento.prefeitura.sp.gov.br
+eolservidor.prefeitura.sp.gov.br
+eolservidor-trn.prefeitura.sp.gov.br
+epubli.prefeitura.sp.gov.br
+ermelinomatarazzo.prefeitura.sp.gov.br
+autodiscover.esaudesp.prefeitura.sp.gov.br
+em7660.esaudesp.prefeitura.sp.gov.br
+enterpriseenrollment.esaudesp.prefeitura.sp.gov.br
+enterpriseregistration.esaudesp.prefeitura.sp.gov.br
+suporte.esaudesp.prefeitura.sp.gov.br
+url1673.esaudesp.prefeitura.sp.gov.br
+esdpmead.prefeitura.sp.gov.br
+esic.prefeitura.sp.gov.br
+esicadmin.prefeitura.sp.gov.br
+esportes.prefeitura.sp.gov.br
+www.esportes.prefeitura.sp.gov.br
+www.estudantesemacao.prefeitura.sp.gov.br
+estudosobservasampa.prefeitura.sp.gov.br
+esusab.prefeitura.sp.gov.br
+eventos.prefeitura.sp.gov.br
+exames.prefeitura.sp.gov.br
+expo2020.prefeitura.sp.gov.br
+fablab.prefeitura.sp.gov.br
+www.fablab.prefeitura.sp.gov.br
+fablablivre.prefeitura.sp.gov.br
+www.fablablivre.prefeitura.sp.gov.br
+fablablivresp.prefeitura.sp.gov.br
+www.fablablivresp.prefeitura.sp.gov.br
+facnet.prefeitura.sp.gov.br
+fazenda.prefeitura.sp.gov.br
+www.fazenda.prefeitura.sp.gov.br
+febreamarela.prefeitura.sp.gov.br
+feriasnota10.prefeitura.sp.gov.br
+www.feriasnota10.prefeitura.sp.gov.br
+festivalamparo.prefeitura.sp.gov.br
+festivalarquivoaberto.prefeitura.sp.gov.br
+festivaldenatal.prefeitura.sp.gov.br
+www.festivaldenatal.prefeitura.sp.gov.br
+festivaldireitoshumanos.prefeitura.sp.gov.br
+festivalsembarreiras.prefeitura.sp.gov.br
+www.festivalsembarreiras.prefeitura.sp.gov.br
+filazero.prefeitura.sp.gov.br
+m.filazero.prefeitura.sp.gov.br
+www.filazero.prefeitura.sp.gov.br
+financas.prefeitura.sp.gov.br
+www.financas.prefeitura.sp.gov.br
+fiqueemdia.prefeitura.sp.gov.br
+fiscalizacaocidada.prefeitura.sp.gov.br
+fmdttransparencia.prefeitura.sp.gov.br
+foca.prefeitura.sp.gov.br
+www.foca.prefeitura.sp.gov.br
+fomentoaperiferia.prefeitura.sp.gov.br
+fpp.prefeitura.sp.gov.br
+freguesia.prefeitura.sp.gov.br
+ftpcomunicacao.prefeitura.sp.gov.br
+fumcad.prefeitura.sp.gov.br
+fumcadsp.prefeitura.sp.gov.br
+www.fundacaopaulistana.prefeitura.sp.gov.br
+gaia.prefeitura.sp.gov.br
+galeriaolido.prefeitura.sp.gov.br
+www.galeriaolido.prefeitura.sp.gov.br
+gbf.prefeitura.sp.gov.br
+www.gbf.prefeitura.sp.gov.br
+api.gcm.prefeitura.sp.gov.br
+heliosapp.gcm.prefeitura.sp.gov.br
+mob.gcm.prefeitura.sp.gov.br
+web.gcm.prefeitura.sp.gov.br
+gcmdeac.prefeitura.sp.gov.br
+www.gcmdeac.prefeitura.sp.gov.br
+gcmmobile.prefeitura.sp.gov.br
+www.gcmmobile.prefeitura.sp.gov.br
+gea.prefeitura.sp.gov.br
+geoapi.prefeitura.sp.gov.br
+geoinfra.prefeitura.sp.gov.br
+www.geoinfra.prefeitura.sp.gov.br
+geosampa.prefeitura.sp.gov.br
+download.geosampa.prefeitura.sp.gov.br
+metadados.geosampa.prefeitura.sp.gov.br
+raster.geosampa.prefeitura.sp.gov.br
+wfs.geosampa.prefeitura.sp.gov.br
+wms.geosampa.prefeitura.sp.gov.br
+geoservergeoinfra.prefeitura.sp.gov.br
+gestantecovid19.prefeitura.sp.gov.br
+gestaodebeneficios.prefeitura.sp.gov.br
+gestaodebeneficios2.prefeitura.sp.gov.br
+gestaodepessoas.prefeitura.sp.gov.br
+gestaodescomplica.prefeitura.sp.gov.br
+gestaodocumental.prefeitura.sp.gov.br
+gestaoimobiliaria.prefeitura.sp.gov.br
+gestaourbana.prefeitura.sp.gov.br
+api.gestaourbana.prefeitura.sp.gov.br
+arcodofuturo.gestaourbana.prefeitura.sp.gov.br
+arcotiete.gestaourbana.prefeitura.sp.gov.br
+dev.gestaourbana.prefeitura.sp.gov.br
+mapa.gestaourbana.prefeitura.sp.gov.br
+www.mapa.gestaourbana.prefeitura.sp.gov.br
+mapacolaborativo.gestaourbana.prefeitura.sp.gov.br
+minuta.gestaourbana.prefeitura.sp.gov.br
+minutabt.gestaourbana.prefeitura.sp.gov.br
+minutalpuos.gestaourbana.prefeitura.sp.gov.br
+minutaparticipativazoneamento.gestaourbana.prefeitura.sp.gov.br
+minutapde.gestaourbana.prefeitura.sp.gov.br
+minutapiu.gestaourbana.prefeitura.sp.gov.br
+minutapiuriobranco.gestaourbana.prefeitura.sp.gov.br
+monitoramentopde.gestaourbana.prefeitura.sp.gov.br
+participe.gestaourbana.prefeitura.sp.gov.br
+piunesp.gestaourbana.prefeitura.sp.gov.br
+proconmunicipal.gestaourbana.prefeitura.sp.gov.br
+revisaolpuos.gestaourbana.prefeitura.sp.gov.br
+revisaoolpuos.gestaourbana.prefeitura.sp.gov.br
+www.gestaourbana.prefeitura.sp.gov.br
+gip.prefeitura.sp.gov.br
+gitlab-pgm.prefeitura.sp.gov.br
+governodigital.prefeitura.sp.gov.br
+govit.prefeitura.sp.gov.br
+cadastro.govit.prefeitura.sp.gov.br
+fatima.govit.prefeitura.sp.gov.br
+forms.govit.prefeitura.sp.gov.br
+forum.govit.prefeitura.sp.gov.br
+homolog.forum.govit.prefeitura.sp.gov.br
+homolog.govit.prefeitura.sp.gov.br
+login.govit.prefeitura.sp.gov.br
+server.govit.prefeitura.sp.gov.br
+teste.govit.prefeitura.sp.gov.br
+teste1.govit.prefeitura.sp.gov.br
+wiki.govit.prefeitura.sp.gov.br
+homolog.wiki.govit.prefeitura.sp.gov.br
+www.govit.prefeitura.sp.gov.br
+gss.prefeitura.sp.gov.br
+gss2.prefeitura.sp.gov.br
+gssv2.prefeitura.sp.gov.br
+gssws.prefeitura.sp.gov.br
+guaianases.prefeitura.sp.gov.br
+guiadocontribuinte.prefeitura.sp.gov.br
+www.guiaparapessoacomdeficiencia.prefeitura.sp.gov.br
+hegocet.prefeitura.sp.gov.br
+hiphopsp.prefeitura.sp.gov.br
+hml-ccm.prefeitura.sp.gov.br
+hml-integracao.prefeitura.sp.gov.br
+hml5-ccm.prefeitura.sp.gov.br
+hml8-ccm.prefeitura.sp.gov.br
+hom-idsampa.prefeitura.sp.gov.br
+homogovernodigital.prefeitura.sp.gov.br
+homolog-tecnologia.prefeitura.sp.gov.br
+www.homolog-tecnologia.prefeitura.sp.gov.br
+ab0706.homologacao.prefeitura.sp.gov.br
+sh0839.homologacao.prefeitura.sp.gov.br
+homologacaosmc.prefeitura.sp.gov.br
+homologsmt.prefeitura.sp.gov.br
+homsf9421oauth.prefeitura.sp.gov.br
+hsf9442waf.prefeitura.sp.gov.br
+hsgzmonitor.prefeitura.sp.gov.br
+hsisgau.prefeitura.sp.gov.br
+hsmgicet.prefeitura.sp.gov.br
+hsmgimax.prefeitura.sp.gov.br
+hsmgimaxmob.prefeitura.sp.gov.br
+www.hspm.prefeitura.sp.gov.br
+icp-pmsp-sf.prefeitura.sp.gov.br
+ids.prefeitura.sp.gov.br
+idsampa.prefeitura.sp.gov.br
+ieolmstech.prefeitura.sp.gov.br
+igsis.prefeitura.sp.gov.br
+imigrantesmapeamento.prefeitura.sp.gov.br
+www.imigrantesmapeamento.prefeitura.sp.gov.br
+imprensa.prefeitura.sp.gov.br
+arqs.imprensasme.prefeitura.sp.gov.br
+inclusaodigital.prefeitura.sp.gov.br
+www.inclusaodigital.prefeitura.sp.gov.br
+indicadoressaude.prefeitura.sp.gov.br
+infocidade.prefeitura.sp.gov.br
+informativocmt.prefeitura.sp.gov.br
+inovacao.prefeitura.sp.gov.br
+www.inovacao.prefeitura.sp.gov.br
+inscricaodeblocos.prefeitura.sp.gov.br
+inspira.prefeitura.sp.gov.br
+isshabitese.internet.prefeitura.sp.gov.br
+ipiranga.prefeitura.sp.gov.br
+iprem.prefeitura.sp.gov.br
+autodiscover.iprem.prefeitura.sp.gov.br
+www.declaracaofamilia.iprem.prefeitura.sp.gov.br
+www.eleicao.iprem.prefeitura.sp.gov.br
+enterpriseenrollment.iprem.prefeitura.sp.gov.br
+enterpriseregistration.iprem.prefeitura.sp.gov.br
+provadevida.iprem.prefeitura.sp.gov.br
+www.iprem.prefeitura.sp.gov.br
+iptu.prefeitura.sp.gov.br
+isencaoaposentados.prefeitura.sp.gov.br
+itaimpaulista.prefeitura.sp.gov.br
+itaquera.prefeitura.sp.gov.br
+itbi.prefeitura.sp.gov.br
+jabaquara.prefeitura.sp.gov.br
+jacana-tremembe.prefeitura.sp.gov.br
+jogasp.prefeitura.sp.gov.br
+www.jogasp.prefeitura.sp.gov.br
+jogosdacidade.prefeitura.sp.gov.br
+www.jogosdacidade.prefeitura.sp.gov.br
+jornadadopatrimonio.prefeitura.sp.gov.br
+www.jornadadopatrimonio.prefeitura.sp.gov.br
+jovemmonitor.prefeitura.sp.gov.br
+www.jovemmonitor.prefeitura.sp.gov.br
+jovemmonitorcultural.prefeitura.sp.gov.br
+www.jovemmonitorcultural.prefeitura.sp.gov.br
+juntos-pelaprevidencia.prefeitura.sp.gov.br
+juntospelaprevidencia.prefeitura.sp.gov.br
+lab11.prefeitura.sp.gov.br
+labprodam.prefeitura.sp.gov.br
+lapa.prefeitura.sp.gov.br
+legislacao.prefeitura.sp.gov.br
+leipaulogustavo.prefeitura.sp.gov.br
+em9519.leipaulogustavo.prefeitura.sp.gov.br
+www.leipaulogustavo.prefeitura.sp.gov.br
+leitos.prefeitura.sp.gov.br
+m.leitos.prefeitura.sp.gov.br
+www.leitos.prefeitura.sp.gov.br
+licencasst1704.prefeitura.sp.gov.br
+licenciamentoambiental.prefeitura.sp.gov.br
+licitacoesdeativos.prefeitura.sp.gov.br
+ligueospontos.prefeitura.sp.gov.br
+linguagemsimples.prefeitura.sp.gov.br
+loginsenhaweb.prefeitura.sp.gov.br
+maepaulistana.prefeitura.sp.gov.br
+apps.maepaulistana.prefeitura.sp.gov.br
+android.apps.maepaulistana.prefeitura.sp.gov.br
+www.apps.maepaulistana.prefeitura.sp.gov.br
+extranet.maepaulistana.prefeitura.sp.gov.br
+happs.maepaulistana.prefeitura.sp.gov.br
+intranet.maepaulistana.prefeitura.sp.gov.br
+www.intranet.maepaulistana.prefeitura.sp.gov.br
+www.maepaulistana.prefeitura.sp.gov.br
+maioamarelo.prefeitura.sp.gov.br
+maiseducacaosaopaulo.prefeitura.sp.gov.br
+www.maiseducacaosaopaulo.prefeitura.sp.gov.br
+manualurbano.prefeitura.sp.gov.br
+www.manualurbano.prefeitura.sp.gov.br
+manutencaopgm.prefeitura.sp.gov.br
+www.maosementespaulistanas.prefeitura.sp.gov.br
+mapacolaborativoplanpavel.prefeitura.sp.gov.br
+matrixweblabsproxy.prefeitura.sp.gov.br
+matrixwebsaomiguel.prefeitura.sp.gov.br
+matrizafrocredenciamento.prefeitura.sp.gov.br
+www.matrizafrocredenciamento.prefeitura.sp.gov.br
+mboimirim.prefeitura.sp.gov.br
+mci.prefeitura.sp.gov.br
+www.mci.prefeitura.sp.gov.br
+memoriadocirco.prefeitura.sp.gov.br
+mercadao.prefeitura.sp.gov.br
+mesdohiphop.prefeitura.sp.gov.br
+www.mesdohiphop.prefeitura.sp.gov.br
+metas.prefeitura.sp.gov.br
+meuimovelregular.prefeitura.sp.gov.br
+www.meuimovelregular.prefeitura.sp.gov.br
+meuveiculo.prefeitura.sp.gov.br
+minhasvacinas.prefeitura.sp.gov.br
+misc.prefeitura.sp.gov.br
+miv.prefeitura.sp.gov.br
+www.miv.prefeitura.sp.gov.br
+mobilab.prefeitura.sp.gov.br
+mobile.prefeitura.sp.gov.br
+biprodam.mobile.prefeitura.sp.gov.br
+wscontainer.mobile.prefeitura.sp.gov.br
+mobilidadesegura.prefeitura.sp.gov.br
+monitorahosp.prefeitura.sp.gov.br
+monitoramentosp156.prefeitura.sp.gov.br
+monitoratv.prefeitura.sp.gov.br
+m.monitoratv.prefeitura.sp.gov.br
+www.monitoratv.prefeitura.sp.gov.br
+monitoratv-treinamento.prefeitura.sp.gov.br
+m.monitoratv-treinamento.prefeitura.sp.gov.br
+www.monitoratv-treinamento.prefeitura.sp.gov.br
+monitorbi.prefeitura.sp.gov.br
+monitorprimeirainfanciasp.prefeitura.sp.gov.br
+mooca.prefeitura.sp.gov.br
+mosquitovilao.prefeitura.sp.gov.br
+mulheres.prefeitura.sp.gov.br
+museudacidade.prefeitura.sp.gov.br
+www.museudacidade.prefeitura.sp.gov.br
+negocios.prefeitura.sp.gov.br
+www.negocios.prefeitura.sp.gov.br
+nfe.prefeitura.sp.gov.br
+nfeapi.prefeitura.sp.gov.br
+nfedesenv.prefeitura.sp.gov.br
+nfews.prefeitura.sp.gov.br
+nfpaulistana.prefeitura.sp.gov.br
+www.nfpaulistana.prefeitura.sp.gov.br
+nfpaulistana-simulacao-sat.prefeitura.sp.gov.br
+nossacreche.prefeitura.sp.gov.br
+notadomilhao.prefeitura.sp.gov.br
+www.notadomilhao.prefeitura.sp.gov.br
+notcertiptu.prefeitura.sp.gov.br
+obrasabertas.prefeitura.sp.gov.br
+observasampa.prefeitura.sp.gov.br
+api.observasampa.prefeitura.sp.gov.br
+dados.observasampa.prefeitura.sp.gov.br
+www.observasampa.prefeitura.sp.gov.br
+observatorio.prefeitura.sp.gov.br
+olimpiadasdosservidores.prefeitura.sp.gov.br
+www.olimpiadasdosservidores.prefeitura.sp.gov.br
+oportunidades.prefeitura.sp.gov.br
+www.oportunidades.prefeitura.sp.gov.br
+orcamento.prefeitura.sp.gov.br
+ottc.prefeitura.sp.gov.br
+oucabeleicao2022.prefeitura.sp.gov.br
+oucabeleicao2024.prefeitura.sp.gov.br
+outorgaonerosa.prefeitura.sp.gov.br
+pacaembu.prefeitura.sp.gov.br
+www.pacaembu.prefeitura.sp.gov.br
+pagsitetosite.prefeitura.sp.gov.br
+painelzeladoria.prefeitura.sp.gov.br
+www.painelzeladoria.prefeitura.sp.gov.br
+pap.prefeitura.sp.gov.br
+parelheiros.prefeitura.sp.gov.br
+participemais.prefeitura.sp.gov.br
+participemaisconselhos.prefeitura.sp.gov.br
+participemaishom.prefeitura.sp.gov.br
+passaportedavacina.prefeitura.sp.gov.br
+pat.prefeitura.sp.gov.br
+patiodigital.prefeitura.sp.gov.br
+patrimoniohistorico.prefeitura.sp.gov.br
+www.patrimoniohistorico.prefeitura.sp.gov.br
+devolutiva.pdm.prefeitura.sp.gov.br
+penha.prefeitura.sp.gov.br
+pepe.prefeitura.sp.gov.br
+peq.prefeitura.sp.gov.br
+percursofretamento.prefeitura.sp.gov.br
+perus.prefeitura.sp.gov.br
+pgm.prefeitura.sp.gov.br
+pdc.pgm.prefeitura.sp.gov.br
+pide.pgm.prefeitura.sp.gov.br
+sccp.pgm.prefeitura.sp.gov.br
+sefd.pgm.prefeitura.sp.gov.br
+www.sefd.pgm.prefeitura.sp.gov.br
+siaj.pgm.prefeitura.sp.gov.br
+siajd.pgm.prefeitura.sp.gov.br
+www.siajd.pgm.prefeitura.sp.gov.br
+sisobi.pgm.prefeitura.sp.gov.br
+pgmspprocessosaj.prefeitura.sp.gov.br
+pia.prefeitura.sp.gov.br
+pide.prefeitura.sp.gov.br
+pime.prefeitura.sp.gov.br
+pinheiros.prefeitura.sp.gov.br
+pirituba.prefeitura.sp.gov.br
+pitchsampa.prefeitura.sp.gov.br
+www.pitchsampa.prefeitura.sp.gov.br
+planejasampa.prefeitura.sp.gov.br
+minuta.planejasampa.prefeitura.sp.gov.br
+www.minuta.planejasampa.prefeitura.sp.gov.br
+www.planejasampa.prefeitura.sp.gov.br
+planodiretor.prefeitura.sp.gov.br
+planodiretorsp.prefeitura.sp.gov.br
+planomunicipaldecultura.prefeitura.sp.gov.br
+www.planomunicipaldecultura.prefeitura.sp.gov.br
+ple.prefeitura.sp.gov.br
+www.pmlllb.prefeitura.sp.gov.br
+pmspauth.prefeitura.sp.gov.br
+politicadeatendimento.prefeitura.sp.gov.br
+portadeentrada.prefeitura.sp.gov.br
+em4990.portadeentrada.prefeitura.sp.gov.br
+www.portadeentrada.prefeitura.sp.gov.br
+portal.prefeitura.sp.gov.br
+portaldamspdtp.prefeitura.sp.gov.br
+portaldelicenciamento.prefeitura.sp.gov.br
+portaldoservidorahm.prefeitura.sp.gov.br
+portaldoservidorsms.prefeitura.sp.gov.br
+portaleducacao.prefeitura.sp.gov.br
+arqs.portaleducacao.prefeitura.sp.gov.br
+igov.portaleducacao.prefeitura.sp.gov.br
+www.portaleducacao.prefeitura.sp.gov.br
+portalinterativo.prefeitura.sp.gov.br
+portalseges.prefeitura.sp.gov.br
+portalsg.prefeitura.sp.gov.br
+portalsme.prefeitura.sp.gov.br
+www.portalsme.prefeitura.sp.gov.br
+portalsmg.prefeitura.sp.gov.br
+dev.portalsmg.prefeitura.sp.gov.br
+ppi.prefeitura.sp.gov.br
+ppm.prefeitura.sp.gov.br
+ppp.prefeitura.sp.gov.br
+prd.prefeitura.sp.gov.br
+precospublicosws.prefeitura.sp.gov.br
+prefeiturafaz.prefeitura.sp.gov.br
+www.prefeiturafaz.prefeitura.sp.gov.br
+premiasampa.prefeitura.sp.gov.br
+previdencia.prefeitura.sp.gov.br
+www.previdencia.prefeitura.sp.gov.br
+processoeletronico.prefeitura.sp.gov.br
+processos.prefeitura.sp.gov.br
+procon.prefeitura.sp.gov.br
+www.procon.prefeitura.sp.gov.br
+www.procondacidadesaopaulo.prefeitura.sp.gov.br
+procondigital.prefeitura.sp.gov.br
+www.procondigital.prefeitura.sp.gov.br
+proconeletronico.prefeitura.sp.gov.br
+www.proconeletronico.prefeitura.sp.gov.br
+procononline.prefeitura.sp.gov.br
+www.procononline.prefeitura.sp.gov.br
+proconpaulistano.prefeitura.sp.gov.br
+www.proconpaulistano.prefeitura.sp.gov.br
+prodamad.prefeitura.sp.gov.br
+programademetas.prefeitura.sp.gov.br
+programaderesidencia.prefeitura.sp.gov.br
+www.programaderesidencia.prefeitura.sp.gov.br
+programareencontro.prefeitura.sp.gov.br
+programavocacional.prefeitura.sp.gov.br
+promac.prefeitura.sp.gov.br
+prontuarioeletronico.prefeitura.sp.gov.br
+protesto.prefeitura.sp.gov.br
+www.qei.prefeitura.sp.gov.br
+recape.prefeitura.sp.gov.br
+www.recape.prefeitura.sp.gov.br
+reciclamais.prefeitura.sp.gov.br
+reciclarparacapacitar.prefeitura.sp.gov.br
+www.reciclarparacapacitar.prefeitura.sp.gov.br
+redencaosaude.prefeitura.sp.gov.br
+regularizacaodeimovel.prefeitura.sp.gov.br
+relat.prefeitura.sp.gov.br
+repositorioappgg.prefeitura.sp.gov.br
+requerimentopensaoiprem.prefeitura.sp.gov.br
+residenciamaker.prefeitura.sp.gov.br
+saude.residenciamaker.prefeitura.sp.gov.br
+resultadossaomiguel.prefeitura.sp.gov.br
+revistacedocseme.prefeitura.sp.gov.br
+www.revistacedocseme.prefeitura.sp.gov.br
+ria.prefeitura.sp.gov.br
+rsp.prefeitura.sp.gov.br
+ruassp.prefeitura.sp.gov.br
+s4c.prefeitura.sp.gov.br
+sac.prefeitura.sp.gov.br
+sacta.prefeitura.sp.gov.br
+safro.prefeitura.sp.gov.br
+sagror.prefeitura.sp.gov.br
+sampamaisrural.prefeitura.sp.gov.br
+sampamaissolidaria.prefeitura.sp.gov.br
+sampatatil.prefeitura.sp.gov.br
+santana-tucuruvi.prefeitura.sp.gov.br
+santoamaro.prefeitura.sp.gov.br
+saomateus.prefeitura.sp.gov.br
+saomiguel.prefeitura.sp.gov.br
+saopaulocapitaldacultura.prefeitura.sp.gov.br
+saopauloexpo2020.prefeitura.sp.gov.br
+www.saopaulomaisinclusiva.prefeitura.sp.gov.br
+saopaulonaexpo.prefeitura.sp.gov.br
+www.saopaulonaexpo.prefeitura.sp.gov.br
+saopaulotechweek.prefeitura.sp.gov.br
+sapopemba.prefeitura.sp.gov.br
+saro.prefeitura.sp.gov.br
+saude.prefeitura.sp.gov.br
+autodiscover.saude.prefeitura.sp.gov.br
+ava.saude.prefeitura.sp.gov.br
+bi.saude.prefeitura.sp.gov.br
+biprodam.saude.prefeitura.sp.gov.br
+buscaubsweb.saude.prefeitura.sp.gov.br
+cep.saude.prefeitura.sp.gov.br
+correio.saude.prefeitura.sp.gov.br
+dsiga.saude.prefeitura.sp.gov.br
+extranet.saude.prefeitura.sp.gov.br
+gris.saude.prefeitura.sp.gov.br
+homologinfo.saude.prefeitura.sp.gov.br
+hsiga.saude.prefeitura.sp.gov.br
+hsiga2.saude.prefeitura.sp.gov.br
+hsigacih.saude.prefeitura.sp.gov.br
+hsigapep.saude.prefeitura.sp.gov.br
+hwebsaass.saude.prefeitura.sp.gov.br
+hwssadt.saude.prefeitura.sp.gov.br
+hws.integrador.saude.prefeitura.sp.gov.br
+ws.integrador.saude.prefeitura.sp.gov.br
+intranet.saude.prefeitura.sp.gov.br
+moderasp.saude.prefeitura.sp.gov.br
+monitorasinasc.saude.prefeitura.sp.gov.br
+pop.saude.prefeitura.sp.gov.br
+recon.saude.prefeitura.sp.gov.br
+repositoriosistemas.saude.prefeitura.sp.gov.br
+sh0777.saude.prefeitura.sp.gov.br
+siga.saude.prefeitura.sp.gov.br
+ftp.siga.saude.prefeitura.sp.gov.br
+hws.siga.saude.prefeitura.sp.gov.br
+ws.siga.saude.prefeitura.sp.gov.br
+sigaajustes.saude.prefeitura.sp.gov.br
+sigapep.saude.prefeitura.sp.gov.br
+hws.sigapep.saude.prefeitura.sp.gov.br
+ws.sigapep.saude.prefeitura.sp.gov.br
+sim.saude.prefeitura.sp.gov.br
+www.sinasc.saude.prefeitura.sp.gov.br
+sisvol.saude.prefeitura.sp.gov.br
+siw.saude.prefeitura.sp.gov.br
+smtp.saude.prefeitura.sp.gov.br
+suporte.saude.prefeitura.sp.gov.br
+tabnet.saude.prefeitura.sp.gov.br
+tsiga.saude.prefeitura.sp.gov.br
+tsigapep.saude.prefeitura.sp.gov.br
+tutorial.saude.prefeitura.sp.gov.br
+webmail.saude.prefeitura.sp.gov.br
+websaass.saude.prefeitura.sp.gov.br
+wssadt.saude.prefeitura.sp.gov.br
+www3.saude.prefeitura.sp.gov.br
+saudedafamiliadigital.prefeitura.sp.gov.br
+as.saudedafamiliadigital.prefeitura.sp.gov.br
+comunidades.saudedafamiliadigital.prefeitura.sp.gov.br
+hra.saudedafamiliadigital.prefeitura.sp.gov.br
+ms.saudedafamiliadigital.prefeitura.sp.gov.br
+saudesp.prefeitura.sp.gov.br
+sav.prefeitura.sp.gov.br
+sccp.prefeitura.sp.gov.br
+scent.prefeitura.sp.gov.br
+sda.prefeitura.sp.gov.br
+sdi.prefeitura.sp.gov.br
+www.sdi.prefeitura.sp.gov.br
+se.prefeitura.sp.gov.br
+autodiscover.secom.prefeitura.sp.gov.br
+enterpriseenrollment.secom.prefeitura.sp.gov.br
+enterpriseregistration.secom.prefeitura.sp.gov.br
+sefd-pgm.prefeitura.sp.gov.br
+seges.prefeitura.sp.gov.br
+atosoficiais.seges.prefeitura.sp.gov.br
+sei.prefeitura.sp.gov.br
+sel.prefeitura.sp.gov.br
+semanadamobilidade.prefeitura.sp.gov.br
+semanageek.prefeitura.sp.gov.br
+www.semanageek.prefeitura.sp.gov.br
+semanajovem.prefeitura.sp.gov.br
+www.semanajovem.prefeitura.sp.gov.br
+senhaweb.prefeitura.sp.gov.br
+senhawebapi.prefeitura.sp.gov.br
+senhaweboauth2certificado.prefeitura.sp.gov.br
+senhawebsts.prefeitura.sp.gov.br
+hydra.sepep.prefeitura.sp.gov.br
+www.hydra.sepep.prefeitura.sp.gov.br
+seade.sepep.prefeitura.sp.gov.br
+www.seade.sepep.prefeitura.sp.gov.br
+servicodevalet.prefeitura.sp.gov.br
+servicodevolucao.prefeitura.sp.gov.br
+www.servicodevolucao.prefeitura.sp.gov.br
+sf-bcadastro-hom.prefeitura.sp.gov.br
+sf9419pmsp.prefeitura.sp.gov.br
+sf9514dev.prefeitura.sp.gov.br
+sfemp.prefeitura.sp.gov.br
+sffacsprocessadas.prefeitura.sp.gov.br
+sfmobile.prefeitura.sp.gov.br
+sfmsp.prefeitura.sp.gov.br
+sfobras.prefeitura.sp.gov.br
+pitchsampa.sg.prefeitura.sp.gov.br
+dev.sga.prefeitura.sp.gov.br
+sges.prefeitura.sp.gov.br
+sgf.prefeitura.sp.gov.br
+sgf-homolog.prefeitura.sp.gov.br
+sgfsf.prefeitura.sp.gov.br
+sgtpsptaxi.prefeitura.sp.gov.br
+siad.prefeitura.sp.gov.br
+homolog.siad.prefeitura.sp.gov.br
+siaj.prefeitura.sp.gov.br
+siajd.prefeitura.sp.gov.br
+sicad.prefeitura.sp.gov.br
+sicap.prefeitura.sp.gov.br
+sifilis.prefeitura.sp.gov.br
+m.sifilis.prefeitura.sp.gov.br
+www.sifilis.prefeitura.sp.gov.br
+sifilis-treinamento.prefeitura.sp.gov.br
+m.sifilis-treinamento.prefeitura.sp.gov.br
+www.sifilis-treinamento.prefeitura.sp.gov.br
+sigad.prefeitura.sp.gov.br
+www.sigaseme.prefeitura.sp.gov.br
+sigob.prefeitura.sp.gov.br
+sigrc.prefeitura.sp.gov.br
+www.sigrc.prefeitura.sp.gov.br
+sigss.prefeitura.sp.gov.br
+sim_homologa.prefeitura.sp.gov.br
+simcepi.prefeitura.sp.gov.br
+simproc.prefeitura.sp.gov.br
+simprocantigo.prefeitura.sp.gov.br
+simprocservicos.prefeitura.sp.gov.br
+sinasc_homologa.prefeitura.sp.gov.br
+sindec.prefeitura.sp.gov.br
+sip.prefeitura.sp.gov.br
+sisa.prefeitura.sp.gov.br
+sisahom.prefeitura.sp.gov.br
+siscontrat.prefeitura.sp.gov.br
+siscoz.prefeitura.sp.gov.br
+sisgau.prefeitura.sp.gov.br
+sisobi.prefeitura.sp.gov.br
+sisorg.prefeitura.sp.gov.br
+sispavs.prefeitura.sp.gov.br
+sisrua.prefeitura.sp.gov.br
+sisrural.prefeitura.sp.gov.br
+siva.prefeitura.sp.gov.br
+sivias.prefeitura.sp.gov.br
+sj0797.prefeitura.sp.gov.br
+slce.prefeitura.sp.gov.br
+formulario.smads.prefeitura.sp.gov.br
+smae.prefeitura.sp.gov.br
+www.smae.prefeitura.sp.gov.br
+smae_homolog.prefeitura.sp.gov.br
+smartsampa.prefeitura.sp.gov.br
+www.smartsampa.prefeitura.sp.gov.br
+parceriaseprestacaodecontas.smc.prefeitura.sp.gov.br
+www.parceriaseprestacaodecontas.smc.prefeitura.sp.gov.br
+smcatendimento.prefeitura.sp.gov.br
+smceditais.prefeitura.sp.gov.br
+em5953.smceditais.prefeitura.sp.gov.br
+www.smceditais.prefeitura.sp.gov.br
+smcpromac.prefeitura.sp.gov.br
+smcsistemas.prefeitura.sp.gov.br
+smcti.prefeitura.sp.gov.br
+www.smcti.prefeitura.sp.gov.br
+eleicaoct23.smdhc.prefeitura.sp.gov.br
+www.eleicaoct23.smdhc.prefeitura.sp.gov.br
+forms.smdhc.prefeitura.sp.gov.br
+www.forms.smdhc.prefeitura.sp.gov.br
+gestaodeparcerias.smdhc.prefeitura.sp.gov.br
+www.gestaodeparcerias.smdhc.prefeitura.sp.gov.br
+smdu.prefeitura.sp.gov.br
+canadian.sme.prefeitura.sp.gov.br
+purus.sme.prefeitura.sp.gov.br
+smetele.prefeitura.sp.gov.br
+smgi.prefeitura.sp.gov.br
+mapas.smgi.prefeitura.sp.gov.br
+smgibroker.prefeitura.sp.gov.br
+smgibrokerprodam.prefeitura.sp.gov.br
+smgicet.prefeitura.sp.gov.br
+smgicethomolog.prefeitura.sp.gov.br
+smgicetmapa.prefeitura.sp.gov.br
+smgichat.prefeitura.sp.gov.br
+smgigis.prefeitura.sp.gov.br
+smgimax.prefeitura.sp.gov.br
+smgimaxhomolog.prefeitura.sp.gov.br
+smgimaxmob.prefeitura.sp.gov.br
+smgimob.prefeitura.sp.gov.br
+smgisgzhomolog.prefeitura.sp.gov.br
+smgisgzhomologbi.prefeitura.sp.gov.br
+smgsuporte.prefeitura.sp.gov.br
+qs.smit.prefeitura.sp.gov.br
+vm001.smit.prefeitura.sp.gov.br
+vm002.smit.prefeitura.sp.gov.br
+asesweb.smped.prefeitura.sp.gov.br
+www.asesweb.smped.prefeitura.sp.gov.br
+observatorio.smped.prefeitura.sp.gov.br
+adm.observatorio.smped.prefeitura.sp.gov.br
+api.observatorio.smped.prefeitura.sp.gov.br
+configurador.observatorio.smped.prefeitura.sp.gov.br
+api.configurador.observatorio.smped.prefeitura.sp.gov.br
+graficos.observatorio.smped.prefeitura.sp.gov.br
+api.graficos.observatorio.smped.prefeitura.sp.gov.br
+paineis.observatorio.smped.prefeitura.sp.gov.br
+api.paineis.observatorio.smped.prefeitura.sp.gov.br
+portal.observatorio.smped.prefeitura.sp.gov.br
+api.portal.observatorio.smped.prefeitura.sp.gov.br
+www.portal.observatorio.smped.prefeitura.sp.gov.br
+www.observatorio.smped.prefeitura.sp.gov.br
+observatorio2.smped.prefeitura.sp.gov.br
+api.observatorio2.smped.prefeitura.sp.gov.br
+configurador.observatorio2.smped.prefeitura.sp.gov.br
+api.configurador.observatorio2.smped.prefeitura.sp.gov.br
+graficos.observatorio2.smped.prefeitura.sp.gov.br
+api.graficos.observatorio2.smped.prefeitura.sp.gov.br
+paineis.observatorio2.smped.prefeitura.sp.gov.br
+api.paineis.observatorio2.smped.prefeitura.sp.gov.br
+portal.observatorio2.smped.prefeitura.sp.gov.br
+api.portal.observatorio2.smped.prefeitura.sp.gov.br
+observatoriododeficiente.smped.prefeitura.sp.gov.br
+gestaoacessos.observatoriododeficiente.smped.prefeitura.sp.gov.br
+paineis.observatoriododeficiente.smped.prefeitura.sp.gov.br
+www.observatoriododeficiente.smped.prefeitura.sp.gov.br
+selo.smped.prefeitura.sp.gov.br
+www.selo.smped.prefeitura.sp.gov.br
+webmail.smpr.prefeitura.sp.gov.br
+smsuapp.prefeitura.sp.gov.br
+www.smsuapp.prefeitura.sp.gov.br
+webmail.smsub.prefeitura.sp.gov.br
+smtmobilab1.prefeitura.sp.gov.br
+smtmobilab2.prefeitura.sp.gov.br
+smtmobilab2.prefeitura.sp.gov.br
+smtmobilab2.prefeitura.sp.gov.br
+smtmobilab3.prefeitura.sp.gov.br
+smtmobilab4.prefeitura.sp.gov.br
+smtmobilab5.prefeitura.sp.gov.br
+smtmobilab6.prefeitura.sp.gov.br
+smtmobilab7.prefeitura.sp.gov.br
+smtplanmob.prefeitura.sp.gov.br
+smul.prefeitura.sp.gov.br
+smulacervo.prefeitura.sp.gov.br
+smuwifi.prefeitura.sp.gov.br
+homolog.smuwifi.prefeitura.sp.gov.br
+sofconsulta.prefeitura.sp.gov.br
+sorteioalvarataxi.prefeitura.sp.gov.br
+sorteioalvarataxipreto.prefeitura.sp.gov.br
+sp156.prefeitura.sp.gov.br
+www.sp156.prefeitura.sp.gov.br
+sp2040.prefeitura.sp.gov.br
+sp360.prefeitura.sp.gov.br
+backend.sp360.prefeitura.sp.gov.br
+homolog.backend.sp360.prefeitura.sp.gov.br
+homolog.sp360.prefeitura.sp.gov.br
+www.homolog.sp360.prefeitura.sp.gov.br
+www.sp360.prefeitura.sp.gov.br
+sp470anos.prefeitura.sp.gov.br
+www.sp470anos.prefeitura.sp.gov.br
+www.spcine.prefeitura.sp.gov.br
+spcontraadengue.prefeitura.sp.gov.br
+spcultura.prefeitura.sp.gov.br
+mapa.spcultura.prefeitura.sp.gov.br
+spinteligente.prefeitura.sp.gov.br
+spmaissegura.prefeitura.sp.gov.br
+spmakerweek.prefeitura.sp.gov.br
+www.spmakerweek.prefeitura.sp.gov.br
+spmw.prefeitura.sp.gov.br
+sporg.prefeitura.sp.gov.br
+dev.sporg.prefeitura.sp.gov.br
+sppravc.prefeitura.sp.gov.br
+sprecicla.prefeitura.sp.gov.br
+www.sprecicla.prefeitura.sp.gov.br
+sptaxi.prefeitura.sp.gov.br
+alias.sptaxi.prefeitura.sp.gov.br
+apidriver.sptaxi.prefeitura.sp.gov.br
+apipassenger.sptaxi.prefeitura.sp.gov.br
+hom.sptaxi.prefeitura.sp.gov.br
+apidriver.hom.sptaxi.prefeitura.sp.gov.br
+apipassenger.hom.sptaxi.prefeitura.sp.gov.br
+inscricao.hom.sptaxi.prefeitura.sp.gov.br
+wssdriver.hom.sptaxi.prefeitura.sp.gov.br
+wsspassenger.hom.sptaxi.prefeitura.sp.gov.br
+sgtp.sptaxi.prefeitura.sp.gov.br
+wssdriver.sptaxi.prefeitura.sp.gov.br
+wsspassenger.sptaxi.prefeitura.sp.gov.br
+z.sptaxi.prefeitura.sp.gov.br
+spterritoriodigital.prefeitura.sp.gov.br
+www.spterritoriodigital.prefeitura.sp.gov.br
+subprefeituras.prefeitura.sp.gov.br
+subvencao.prefeitura.sp.gov.br
+supervisaodeformacao.prefeitura.sp.gov.br
+svma.prefeitura.sp.gov.br
+svmaeleicoes.prefeitura.sp.gov.br
+svmaeleicoesvotacao.prefeitura.sp.gov.br
+sxsw.prefeitura.sp.gov.br
+tasimplificado.prefeitura.sp.gov.br
+taxas2020.prefeitura.sp.gov.br
+tcmareaprivada.prefeitura.sp.gov.br
+tecnologia.prefeitura.sp.gov.br
+tecnologiasmc.prefeitura.sp.gov.br
+telecentro.prefeitura.sp.gov.br
+www.telecentro.prefeitura.sp.gov.br
+telecentros.prefeitura.sp.gov.br
+www.telecentros.prefeitura.sp.gov.br
+teleneuro.prefeitura.sp.gov.br
+www.teleneuro.prefeitura.sp.gov.br
+telessaude.prefeitura.sp.gov.br
+busca.telessaude.prefeitura.sp.gov.br
+m.busca.telessaude.prefeitura.sp.gov.br
+www.busca.telessaude.prefeitura.sp.gov.br
+cursos.telessaude.prefeitura.sp.gov.br
+www.cursos.telessaude.prefeitura.sp.gov.br
+extranet.telessaude.prefeitura.sp.gov.br
+www.extranet.telessaude.prefeitura.sp.gov.br
+guiarapido.telessaude.prefeitura.sp.gov.br
+m.guiarapido.telessaude.prefeitura.sp.gov.br
+www.guiarapido.telessaude.prefeitura.sp.gov.br
+homolog.telessaude.prefeitura.sp.gov.br
+www.homolog.telessaude.prefeitura.sp.gov.br
+intranet.telessaude.prefeitura.sp.gov.br
+www.intranet.telessaude.prefeitura.sp.gov.br
+m.telessaude.prefeitura.sp.gov.br
+plataforma.telessaude.prefeitura.sp.gov.br
+www.plataforma.telessaude.prefeitura.sp.gov.br
+www.telessaude.prefeitura.sp.gov.br
+teletrabalho.prefeitura.sp.gov.br
+territoriosdedireitos.prefeitura.sp.gov.br
+guiarapido.tessaude.prefeitura.sp.gov.br
+www.guiarapido.tessaude.prefeitura.sp.gov.br
+test-idsampa.prefeitura.sp.gov.br
+test2-idsampa.prefeitura.sp.gov.br
+teste-cejuread.prefeitura.sp.gov.br
+teste-esdpmead.prefeitura.sp.gov.br
+testecentraldevagas.prefeitura.sp.gov.br
+testelicenciamento.prefeitura.sp.gov.br
+testenfe.prefeitura.sp.gov.br
+testeobras.prefeitura.sp.gov.br
+tesusab.prefeitura.sp.gov.br
+todospelocentro.prefeitura.sp.gov.br
+tolegal.prefeitura.sp.gov.br
+totem.prefeitura.sp.gov.br
+trabalho.prefeitura.sp.gov.br
+www.trabalho.prefeitura.sp.gov.br
+www2.trabalho.prefeitura.sp.gov.br
+trabalhosp.prefeitura.sp.gov.br
+www.trabalhosp.prefeitura.sp.gov.br
+www2.trabalhosp.prefeitura.sp.gov.br
+transparencia.prefeitura.sp.gov.br
+sei.treinamento.prefeitura.sp.gov.br
+sip.treinamento.prefeitura.sp.gov.br
+treinamentosei4.prefeitura.sp.gov.br
+treinamentosigss.prefeitura.sp.gov.br
+treinamentosip4.prefeitura.sp.gov.br
+tutelar2019.prefeitura.sp.gov.br
+uabsaopaulo.prefeitura.sp.gov.br
+umapaz.prefeitura.sp.gov.br
+umapazead.prefeitura.sp.gov.br
+uniceu.prefeitura.sp.gov.br
+vaganacreche.prefeitura.sp.gov.br
+vagazero.prefeitura.sp.gov.br
+m.vagazero.prefeitura.sp.gov.br
+www.vagazero.prefeitura.sp.gov.br
+validasampa.prefeitura.sp.gov.br
+validazonaazul.prefeitura.sp.gov.br
+www.validazonaazul.prefeitura.sp.gov.br
+vidasegura.prefeitura.sp.gov.br
+vilaitororo.prefeitura.sp.gov.br
+vilamaria-vilaguilherme.prefeitura.sp.gov.br
+vilamariana.prefeitura.sp.gov.br
+vilaprudente.prefeitura.sp.gov.br
+viradacultural.prefeitura.sp.gov.br
+www.viradacultural.prefeitura.sp.gov.br
+viradaesportiva.prefeitura.sp.gov.br
+www.viradaesportiva.prefeitura.sp.gov.br
+viradaesportiva2014.prefeitura.sp.gov.br
+www.viradaesportiva2014.prefeitura.sp.gov.br
+viradaesportiva2015.prefeitura.sp.gov.br
+vistoriadtp.prefeitura.sp.gov.br
+viverdesign.prefeitura.sp.gov.br
+w-sfa.prefeitura.sp.gov.br
+w-sgf.prefeitura.sp.gov.br
+webhomologsivias.prefeitura.sp.gov.br
+webparques.prefeitura.sp.gov.br
+wificultura.prefeitura.sp.gov.br
+wifilivre.prefeitura.sp.gov.br
+www.wifilivre.prefeitura.sp.gov.br
+wsativacaocad.prefeitura.sp.gov.br
+hom.wsativacaocad.prefeitura.sp.gov.br
+wsconsultamarcaespecie.prefeitura.sp.gov.br
+hom.wsconsultamarcaespecie.prefeitura.sp.gov.br
+wsdsvae.prefeitura.sp.gov.br
+wssdriver-hom-sptaxi.prefeitura.sp.gov.br
+wssmsu.prefeitura.sp.gov.br
+wsspassenger-hom-sptaxi.prefeitura.sp.gov.br
+wszonaazulservice.prefeitura.sp.gov.br
+zonaleste.prefeitura.sp.gov.br
+Host Name	IP Address	Reply IP Address	Succeed Count	Failed Count	Consecutive Failed Count	Max Consecutive Failed Count	Max Consecutive Failed Time	% Failed	Total Sent Pings	Last Ping Status	Last Ping Time	Last Ping TTL	Average Ping Time	Description	Last Succeed On	Last Failed On	Minimum Ping Time	Maximum Ping Time	Order	Disabled	
+portalinterativo.educacao.prefeitura.sp.gov.br	95.211.219.67		1	4	2	2	11/06/2025 22:33:42	80.00%	5	Request Timeout	218.729		218.729		11/06/2025 22:32:22	11/06/2025 22:33:42	218.729	218.729	286	No	
+www.circuitomunicipaldecultura.prefeitura.sp.gov.br	191.252.51.69		2	3	2	2	11/06/2025 22:33:41	60.00%	5	Request Timeout	9.107		9.752		11/06/2025 22:32:21	11/06/2025 22:33:41	9.107	10.398	150	No	
+www.dialogoaberto.prefeitura.sp.gov.br	69.162.115.2	69.162.115.2	3	2	1	1	11/06/2025 22:33:02	40.00%	5	Succeeded	146.713	49	145.981		11/06/2025 22:33:41	11/06/2025 22:33:02	145.611	146.713	244	No	
+www.mci.prefeitura.sp.gov.br	191.252.51.217		2	3	1	2	11/06/2025 22:32:24	60.00%	5	Request Timeout	6.347		7.146		11/06/2025 22:33:04	11/06/2025 22:33:44	6.347	7.945	563	No	
+asesweb.smped.prefeitura.sp.gov.br	191.240.155.126		3	2	1	1	11/06/2025 22:33:48	40.00%	5	Request Timeout	5.460		5.980		11/06/2025 22:33:07	11/06/2025 22:33:48	5.058	7.423	951	No	
+circuitomunicipaldecultura.prefeitura.sp.gov.br	191.252.51.69	191.252.51.69	4	1	1	1	11/06/2025 22:32:21	20.00%	5	Succeeded	9.019	56	7.995		11/06/2025 22:33:41	11/06/2025 22:32:21	4.844	9.612	149	No	
+ftp.dialogoaberto.prefeitura.sp.gov.br	69.162.115.2	69.162.115.2	4	1	1	1	11/06/2025 22:31:02	20.00%	5	Succeeded	145.447	49	146.120		11/06/2025 22:33:41	11/06/2025 22:31:02	145.426	146.934	240	No	
+matrixweblabsproxy.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	4	1	1	1	11/06/2025 22:31:44	20.00%	5	Succeeded	5.471	58	6.439		11/06/2025 22:33:44	11/06/2025 22:31:44	5.471	7.237	557	No	
+mci.prefeitura.sp.gov.br	191.252.51.217	191.252.51.217	4	1	1	1	11/06/2025 22:33:04	20.00%	5	Succeeded	6.567	56	11.049		11/06/2025 22:33:44	11/06/2025 22:33:04	6.300	23.435	562	No	
+telessaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	4	1	1	1	11/06/2025 22:33:08	20.00%	5	Succeeded	4.625	58	5.221		11/06/2025 22:33:48	11/06/2025 22:33:08	3.991	6.670	1062	No	
+vidasegura.prefeitura.sp.gov.br	177.8.164.85	177.8.164.85	4	1	1	1	11/06/2025 22:33:09	20.00%	5	Succeeded	9.119	59	7.883		11/06/2025 22:33:49	11/06/2025 22:33:09	6.036	9.119	1121	No	
+www.asesweb.smped.prefeitura.sp.gov.br	191.240.155.126	191.240.155.126	4	1	1	1	11/06/2025 22:33:07	20.00%	5	Succeeded	8.448	56	7.051		11/06/2025 22:33:47	11/06/2025 22:33:07	4.759	8.448	952	No	
+22mais100.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	142.563	45	143.269		11/06/2025 22:33:40		142.523	145.491	2	No	
+adocaopracas.prefeitura.sp.gov.br	34.95.219.28	34.95.219.28	5	0				0%	5	Succeeded	11.635	113	10.022		11/06/2025 22:33:40		8.058	11.635	9	No	
+agendamento.descomplicasp.prefeitura.sp.gov.br	177.131.151.108	177.131.151.108	5	0				0%	5	Succeeded	15.012	49	13.778		11/06/2025 22:33:41		12.328	15.012	231	No	
+agendao.prefeitura.sp.gov.br	45.79.18.235	45.79.18.235	5	0				0%	5	Succeeded	144.788	46	144.562		11/06/2025 22:33:40		144.114	144.843	16	No	
+aihcomplexo.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	11.694	58	9.641		11/06/2025 22:33:40		6.986	11.694	24	No	
+akamai.prefeitura.sp.gov.br	23.45.70.18	23.45.70.18	5	0				0%	5	Succeeded	233.581	57	234.173		11/06/2025 22:33:40		231.835	236.848	33	No	
+apps.maepaulistana.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.540	58	11.470		11/06/2025 22:33:44		6.540	24.529	541	No	
+arcodofuturo.prefeitura.sp.gov.br	198.58.113.89	198.58.113.89	5	0				0%	5	Succeeded	145.519	45	144.302		11/06/2025 22:33:40		142.788	145.530	59	No	
+arcotiete.prefeitura.sp.gov.br	198.58.113.89	198.58.113.89	5	0				0%	5	Succeeded	145.355	45	144.318		11/06/2025 22:33:40		143.026	145.603	60	No	
+arquivohistorico.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	149.585	45	145.023		11/06/2025 22:33:40		143.135	149.585	66	No	
+as.saudedafamiliadigital.prefeitura.sp.gov.br	20.65.18.151	20.65.18.151	5	0				0%	5	Succeeded	114.917	113	114.935		11/06/2025 22:33:46		114.431	115.303	815	No	
+autodiscover.cgm.prefeitura.sp.gov.br	52.97.48.232	52.97.48.232	5	0				0%	5	Succeeded	6.758	242	6.765		11/06/2025 22:33:41		5.628	8.383	142	No	
+autodiscover.esaudesp.prefeitura.sp.gov.br	52.97.4.168	52.97.4.168	5	0				0%	5	Succeeded	6.823	242	8.508		11/06/2025 22:33:42		5.945	16.712	325	No	
+autodiscover.iprem.prefeitura.sp.gov.br	52.97.78.152	52.97.78.152	5	0				0%	5	Succeeded	6.033	242	6.362		11/06/2025 22:33:44		5.849	7.682	498	No	
+autodiscover.prefeitura.sp.gov.br	52.97.78.136	52.97.78.136	5	0				0%	5	Succeeded	5.982	242	7.305		11/06/2025 22:33:40		5.982	10.814	75	No	
+autodiscover.saude.prefeitura.sp.gov.br	52.97.78.152	52.97.78.152	5	0				0%	5	Succeeded	5.532	242	6.090		11/06/2025 22:33:46		5.503	7.051	766	No	
+autodiscover.secom.prefeitura.sp.gov.br	52.97.3.184	52.97.3.184	5	0				0%	5	Succeeded	6.621	242	8.130		11/06/2025 22:33:46		5.202	16.373	827	No	
+busca.telessaude.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	4.981	58	5.658		11/06/2025 22:33:48		4.127	6.906	1063	No	
+carnaval2024.prefeitura.sp.gov.br	20.48.202.160	20.48.202.160	5	0				0%	5	Succeeded	128.951	112	128.916		11/06/2025 22:33:40		128.465	129.291	112	No	
+ccgrajau.prefeitura.sp.gov.br	186.202.153.149	186.202.153.149	5	0				0%	5	Succeeded	7.262	56	5.722		11/06/2025 22:33:41		4.476	7.262	121	No	
+ccj.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.107	45	142.120		11/06/2025 22:33:41		141.723	142.299	122	No	
+ccolido.prefeitura.sp.gov.br	179.188.11.53	179.188.11.53	5	0				0%	5	Succeeded	7.405	56	6.230		11/06/2025 22:33:41		5.652	7.405	126	No	
+centrosculturaiseteatros.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.811	45	143.639		11/06/2025 22:33:41		141.511	146.686	133	No	
+cfcct.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.814	45	143.011		11/06/2025 22:33:41		142.272	143.891	137	No	
+cge.prefeitura.sp.gov.br	3.163.63.99	3.163.63.99	5	0				0%	5	Succeeded	4.687	249	6.043		11/06/2025 22:33:41		4.206	9.806	140	No	
+comunidades.saudedafamiliadigital.prefeitura.sp.gov.br	13.248.213.92	13.248.213.92	5	0				0%	5	Succeeded	5.525	246	3.979		11/06/2025 22:33:46		3.199	5.525	816	No	
+contratosartisticosftm.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	5.842	115	6.491		11/06/2025 22:33:41		5.783	8.781	186	No	
+crdanca.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.350	45	143.187		11/06/2025 22:33:41		141.878	146.327	199	No	
+csmb.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.481	45	144.863		11/06/2025 22:33:41		142.318	149.739	201	No	
+csmb1.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.516	45	144.854		11/06/2025 22:33:41		142.106	149.775	202	No	
+dev-idsampa.prefeitura.sp.gov.br	34.160.44.255	34.160.44.255	5	0				0%	5	Succeeded	4.621	117	4.684		11/06/2025 22:33:41		4.210	5.480	236	No	
+dev.descomplicasp.prefeitura.sp.gov.br	54.94.3.75	54.94.3.75	5	0				0%	5	Succeeded	5.259	248	4.507		11/06/2025 22:33:41		4.175	5.259	232	No	
+devprodam-idsampa.prefeitura.sp.gov.br	34.107.205.162	34.107.205.162	5	0				0%	5	Succeeded	4.562	117	4.687		11/06/2025 22:33:41		4.172	5.424	237	No	
+dialogoaberto.prefeitura.sp.gov.br	69.162.115.2	69.162.115.2	5	0				0%	5	Succeeded	145.598	49	145.890		11/06/2025 22:33:41		145.322	147.282	239	No	
+distritoscriativos.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	142.283	45	142.717		11/06/2025 22:33:42		142.283	143.662	256	No	
+e-saudesp-telemedicina.prefeitura.sp.gov.br	34.111.61.23	34.111.61.23	5	0				0%	5	Succeeded	4.441	117	9.047		11/06/2025 22:33:42		4.441	19.156	276	No	
+e-saudesp.prefeitura.sp.gov.br	199.36.158.100	199.36.158.100	5	0				0%	5	Succeeded	3.599	59	9.280		11/06/2025 22:33:42		3.599	20.772	272	No	
+ead.ems.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.696	58	9.740		11/06/2025 22:33:42		6.696	17.999	306	No	
+emasp.prefeitura.sp.gov.br	20.226.1.134	20.226.1.134	5	0				0%	5	Succeeded	7.596	115	11.306		11/06/2025 22:33:42		7.596	21.015	298	No	
+emaspead.prefeitura.sp.gov.br	20.226.1.134	20.226.1.134	5	0				0%	5	Succeeded	7.582	115	11.364		11/06/2025 22:33:42		7.582	22.519	299	No	
+emcartaz.prefeitura.sp.gov.br	191.252.51.33	191.252.51.33	5	0				0%	5	Succeeded	6.845	56	10.834		11/06/2025 22:33:42		6.845	22.013	300	No	
+ems.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.021	58	9.303		11/06/2025 22:33:42		6.021	16.477	305	No	
+emscovid19.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.067	58	9.415		11/06/2025 22:33:42		6.067	16.548	310	No	
+enterpriseregistration.esaudesp.prefeitura.sp.gov.br	20.190.173.64	20.190.173.64	5	0				0%	5	Succeeded	7.207	115	7.540		11/06/2025 22:33:42		7.188	8.254	328	No	
+enterpriseregistration.iprem.prefeitura.sp.gov.br	40.126.45.16	40.126.45.16	5	0				0%	5	Succeeded	8.406	115	7.224		11/06/2025 22:33:44		6.089	8.406	502	No	
+enterpriseregistration.prefeitura.sp.gov.br	40.126.45.16	40.126.45.16	5	0				0%	5	Succeeded	7.392	115	8.074		11/06/2025 22:33:42		7.392	8.428	315	No	
+enterpriseregistration.secom.prefeitura.sp.gov.br	20.190.173.64	20.190.173.64	5	0				0%	5	Succeeded	7.430	115	7.226		11/06/2025 22:33:46		6.141	7.980	829	No	
+festivalamparo.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	142.062	45	142.680		11/06/2025 22:33:42		142.062	143.515	354	No	
+festivalarquivoaberto.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	141.663	45	142.099		11/06/2025 22:33:42		141.663	142.362	355	No	
+filazero.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.180	58	5.217		11/06/2025 22:33:42		4.505	5.631	361	No	
+fomentoaperiferia.prefeitura.sp.gov.br	177.72.111.254	177.72.111.254	5	0				0%	5	Succeeded	23.438	58	23.505		11/06/2025 22:33:42		23.206	24.157	371	No	
+geoapi.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	4.042	58	8.167		11/06/2025 22:33:42		4.042	19.389	392	No	
+gestantecovid19.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	7.929	58	10.514		11/06/2025 22:33:43		6.965	18.499	402	No	
+gestaodescomplica.prefeitura.sp.gov.br	177.131.151.108	177.131.151.108	5	0				0%	5	Succeeded	14.543	49	15.177		11/06/2025 22:33:43		12.713	20.054	406	No	
+guiarapido.telessaude.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	5.836	58	6.260		11/06/2025 22:33:48		4.696	7.146	1070	No	
+happs.aihcomplexo.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	11.733	58	9.994		11/06/2025 22:33:40		9.079	11.733	25	No	
+happs.maepaulistana.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.487	58	10.385		11/06/2025 22:33:44		6.366	23.941	545	No	
+happs.telemedicina.ahm.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	12.149	58	10.290		11/06/2025 22:33:40		9.266	12.149	21	No	
+hegocet.prefeitura.sp.gov.br	177.8.164.88	177.8.164.88	5	0				0%	5	Succeeded	7.036	59	9.622		11/06/2025 22:33:43		6.763	16.600	455	No	
+hiphopsp.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	143.447	45	143.918		11/06/2025 22:33:43		143.012	146.941	456	No	
+hom-idsampa.prefeitura.sp.gov.br	34.149.149.106	34.149.149.106	5	0				0%	5	Succeeded	6.824	117	6.406		11/06/2025 22:33:43		4.956	8.933	461	No	
+homologsmt.prefeitura.sp.gov.br	119.8.228.9	119.8.228.9	5	0				0%	5	Succeeded	7.645	49	7.832		11/06/2025 22:33:43		6.429	10.598	468	No	
+hra.saudedafamiliadigital.prefeitura.sp.gov.br	20.36.155.75	20.36.155.75	5	0				0%	5	Succeeded	114.600	113	115.001		11/06/2025 22:33:46		114.600	115.785	817	No	
+idsampa.prefeitura.sp.gov.br	34.160.183.22	34.160.183.22	5	0				0%	5	Succeeded	5.216	118	6.604		11/06/2025 22:33:43		4.739	9.235	479	No	
+imprensa.prefeitura.sp.gov.br	198.74.54.61	198.74.54.61	5	0				0%	5	Succeeded	127.711	49	125.225		11/06/2025 22:33:43		123.244	128.110	484	No	
+intranet.maepaulistana.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	7.007	58	10.149		11/06/2025 22:33:44		6.249	23.507	546	No	
+jornadadopatrimonio.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	143.727	45	148.106		11/06/2025 22:33:44		142.930	160.615	516	No	
+jovemmonitor.prefeitura.sp.gov.br	45.79.7.123		4	1	1	1	11/06/2025 22:33:44	20.00%	5	Request Timeout	142.763		149.485		11/06/2025 22:33:04	11/06/2025 22:33:44	142.763	161.370	518	No	
+jovemmonitorcultural.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	143.240	45	147.335		11/06/2025 22:33:44		141.683	160.524	520	No	
+leipaulogustavo.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	6.030	115	6.716		11/06/2025 22:33:44		5.837	8.383	528	No	
+leitos.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	7.171	58	11.800		11/06/2025 22:33:44		7.048	25.186	531	No	
+m.aihcomplexo.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	11.575	58	9.315		11/06/2025 22:33:40		7.399	11.575	26	No	
+m.busca.telessaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	4.928	58	5.741		11/06/2025 22:33:48		3.766	7.062	1064	No	
+m.ems.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.092	58	9.613		11/06/2025 22:33:42		6.092	18.059	307	No	
+m.emscovid19.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.110	58	7.189		11/06/2025 22:33:42		6.110	8.156	311	No	
+m.filazero.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.300	58	4.982		11/06/2025 22:33:42		3.921	5.533	362	No	
+m.guiarapido.telessaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.780	58	6.050		11/06/2025 22:33:48		4.835	6.873	1071	No	
+m.leitos.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	7.175	58	10.549		11/06/2025 22:33:44		5.191	25.053	532	No	
+m.monitoratv-treinamento.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.736	58	10.633		11/06/2025 22:33:44		5.736	26.119	587	No	
+m.monitoratv.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.917	58	9.066		11/06/2025 22:33:44		4.623	22.440	584	No	
+m.sifilis-treinamento.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	9.916	58	8.035		11/06/2025 22:33:47		6.049	9.916	876	No	
+m.sifilis.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	10.048	58	7.625		11/06/2025 22:33:47		5.997	10.048	873	No	
+m.suporte.alosaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	11.519	58	9.746		11/06/2025 22:33:40		8.754	11.519	35	No	
+m.telemedicina.ahm.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	11.479	58	9.857		11/06/2025 22:33:40		8.993	11.479	22	No	
+m.telessaude.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.551	58	5.906		11/06/2025 22:33:48		5.029	6.551	1077	No	
+m.vagazero.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	5.254	58	5.589		11/06/2025 22:33:49		4.413	8.010	1116	No	
+maepaulistana.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.495	58	10.555		11/06/2025 22:33:44		6.495	24.477	540	No	
+mail.dialogoaberto.prefeitura.sp.gov.br	208.115.223.146	208.115.223.146	5	0				0%	5	Succeeded	130.721	112	128.999		11/06/2025 22:33:41		127.718	130.721	241	No	
+matrixwebsaomiguel.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.211	58	9.752		11/06/2025 22:33:44		6.211	23.048	558	No	
+mobilab.prefeitura.sp.gov.br	200.205.75.226	200.205.75.226	5	0				0%	5	Succeeded	6.809	58	10.896		11/06/2025 22:33:44		6.164	27.788	576	No	
+monitoratv-treinamento.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	5.536	58	10.382		11/06/2025 22:33:44		5.536	26.418	586	No	
+monitoratv.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.598	58	11.053		11/06/2025 22:33:44		5.380	26.628	583	No	
+ms.saudedafamiliadigital.prefeitura.sp.gov.br	20.36.155.75	20.36.155.75	5	0				0%	5	Succeeded	114.723	113	116.094		11/06/2025 22:33:46		114.723	120.731	818	No	
+museudacidade.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.693	45	145.525		11/06/2025 22:33:44		141.282	158.857	594	No	
+observatorio.smped.prefeitura.sp.gov.br	15.229.79.68	15.229.79.68	5	0				0%	5	Succeeded	7.661	57	6.399		11/06/2025 22:33:47		5.208	7.661	953	No	
+painel.dialogoaberto.prefeitura.sp.gov.br	67.205.186.246	67.205.186.246	5	0				0%	5	Succeeded	119.404	52	123.683		11/06/2025 22:33:41		119.404	124.930	242	No	
+pia.prefeitura.sp.gov.br	186.202.153.207	186.202.153.207	5	0				0%	5	Succeeded	7.002	56	7.517		11/06/2025 22:33:45		7.002	7.937	656	No	
+pitchsampa.prefeitura.sp.gov.br	23.236.62.147	23.236.62.147	5	0				0%	5	Succeeded	141.554	107	141.519		11/06/2025 22:33:45		140.245	142.654	661	No	
+planomunicipaldecultura.prefeitura.sp.gov.br	191.252.51.33	191.252.51.33	5	0				0%	5	Succeeded	5.956	56	6.584		11/06/2025 22:33:45		5.744	7.334	669	No	
+plataforma.telessaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.205	58	5.466		11/06/2025 22:33:48		4.703	6.205	1078	No	
+portadeentrada.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	5.538	115	5.814		11/06/2025 22:33:45		5.449	6.367	675	No	
+programavocacional.prefeitura.sp.gov.br	191.252.51.202	191.252.51.202	5	0				0%	5	Succeeded	6.146	56	6.008		11/06/2025 22:33:45		4.973	6.386	722	No	
+qs.smit.prefeitura.sp.gov.br	54.207.77.57	54.207.77.57	5	0				0%	5	Succeeded	5.678	248	6.149		11/06/2025 22:33:47		3.508	8.248	948	No	
+resultadossaomiguel.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.679	58	5.154		11/06/2025 22:33:45		4.395	5.679	739	No	
+saopaulocapitaldacultura.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	143.156	45	143.073		11/06/2025 22:33:46		142.643	143.657	757	No	
+saudedafamiliadigital.prefeitura.sp.gov.br	66.33.60.130	66.33.60.130	5	0				0%	5	Succeeded	6.107	246	5.676		11/06/2025 22:33:46		4.111	7.096	814	No	
+selo.smped.prefeitura.sp.gov.br	191.240.155.126	191.240.155.126	5	0				0%	5	Succeeded	6.280	56	6.238		11/06/2025 22:33:47		5.444	6.696	980	No	
+semanageek.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	143.242	45	143.311		11/06/2025 22:33:46		142.389	144.241	836	No	
+sgf.prefeitura.sp.gov.br	35.215.236.72	35.215.236.72	5	0				0%	5	Succeeded	10.795	114	8.311		11/06/2025 22:33:47		5.248	13.991	862	No	
+sicap.prefeitura.sp.gov.br	20.119.8.24	20.119.8.24	5	0				0%	5	Succeeded	116.527	114	117.088		11/06/2025 22:33:47		116.510	118.376	871	No	
+sifilis-treinamento.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	10.197	58	8.101		11/06/2025 22:33:47		6.391	10.197	875	No	
+sifilis.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	10.314	58	8.437		11/06/2025 22:33:47		6.863	10.314	872	No	
+sisrural.prefeitura.sp.gov.br	191.232.250.182	191.232.250.182	5	0				0%	5	Succeeded	6.739	51	7.534		11/06/2025 22:33:47		6.426	10.386	901	No	
+sistemas.ems.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	5.854	58	9.733		11/06/2025 22:33:42		5.854	18.286	308	No	
+smceditais.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	5.683	115	6.694		11/06/2025 22:33:47		5.683	9.316	915	No	
+smcpromac.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	5.633	115	6.243		11/06/2025 22:33:47		5.528	8.154	918	No	
+smcti.prefeitura.sp.gov.br	191.252.51.202	191.252.51.202	5	0				0%	5	Succeeded	7.173	56	6.236		11/06/2025 22:33:47		5.406	7.365	920	No	
+smgi.prefeitura.sp.gov.br	34.95.227.242	34.95.227.242	5	0				0%	5	Succeeded	7.613	113	6.211		11/06/2025 22:33:47		5.621	7.613	932	No	
+smgibroker.prefeitura.sp.gov.br	35.247.229.72	35.247.229.72	5	0				0%	5	Succeeded	7.463	114	7.127		11/06/2025 22:33:47		5.859	7.880	934	No	
+smgimax.prefeitura.sp.gov.br	35.215.225.237	35.215.225.237	5	0				0%	5	Succeeded	5.781	114	5.583		11/06/2025 22:33:47		3.624	6.465	941	No	
+smuwifi.prefeitura.sp.gov.br	18.229.17.36	18.229.17.36	5	0				0%	5	Succeeded	5.392	248	6.473		11/06/2025 22:33:48		4.871	7.611	998	No	
+sp156.prefeitura.sp.gov.br	66.22.76.251	66.22.76.251	5	0				0%	5	Succeeded	7.189	53	6.999		11/06/2025 22:33:48		5.524	8.606	1003	No	
+sp2040.prefeitura.sp.gov.br	172.67.193.27	172.67.193.27	5	0				0%	5	Succeeded	6.840	58	6.376		11/06/2025 22:33:48		4.652	7.574	1005	No	
+spmaissegura.controle.prefeitura.sp.gov.br	20.48.202.173	20.48.202.173	5	0				0%	5	Succeeded	129.118	113	129.930		11/06/2025 22:33:41		128.400	132.635	190	No	
+spmaissegura.prefeitura.sp.gov.br	13.248.169.48	13.248.169.48	5	0				0%	5	Succeeded	5.295	246	5.765		11/06/2025 22:33:48		4.521	6.959	1019	No	
+supervisaodeformacao.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	143.055	45	142.995		11/06/2025 22:33:48		141.699	143.670	1046	No	
+suporte.alosaude.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	11.980	58	9.831		11/06/2025 22:33:40		7.302	11.980	34	No	
+suporte.e-saudesp.prefeitura.sp.gov.br	216.198.53.6	216.198.53.6	5	0				0%	5	Succeeded	6.783	58	11.156		11/06/2025 22:33:42		6.783	21.866	273	No	
+suporte.esaudesp.prefeitura.sp.gov.br	216.198.54.6	216.198.54.6	5	0				0%	5	Succeeded	5.927	58	6.454		11/06/2025 22:33:42		5.845	7.286	329	No	
+suportedticucp.e-saudesp.prefeitura.sp.gov.br	216.198.54.6	216.198.54.6	5	0				0%	5	Succeeded	6.421	58	11.071		11/06/2025 22:33:42		6.421	22.327	274	No	
+suporteunidades.e-saudesp.prefeitura.sp.gov.br	216.198.53.6	216.198.53.6	5	0				0%	5	Succeeded	7.686	58	10.462		11/06/2025 22:33:42		7.686	18.233	275	No	
+sxsw.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	143.452	45	143.365		11/06/2025 22:33:48		142.811	143.853	1050	No	
+telemedicina.ahm.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	12.076	58	9.781		11/06/2025 22:33:40		7.296	12.076	20	No	
+teleneuro.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.914	58	6.264		11/06/2025 22:33:48		5.003	6.957	1060	No	
+test-idsampa.prefeitura.sp.gov.br	34.95.107.160	34.95.107.160	5	0				0%	5	Succeeded	5.954	118	5.231		11/06/2025 22:33:48		4.673	6.043	1085	No	
+test2-idsampa.prefeitura.sp.gov.br	34.111.35.92	34.111.35.92	5	0				0%	5	Succeeded	6.814	117	5.366		11/06/2025 22:33:48		4.733	6.814	1086	No	
+url1673.esaudesp.prefeitura.sp.gov.br	167.89.123.62	167.89.123.62	5	0				0%	5	Succeeded	133.983	57	134.049		11/06/2025 22:33:42		133.591	134.698	330	No	
+vagazero.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	4.823	58	5.747		11/06/2025 22:33:49		4.213	8.103	1115	No	
+vilaitororo.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.014	45	141.970		11/06/2025 22:33:49		141.027	142.682	1122	No	
+webmail.dialogoaberto.prefeitura.sp.gov.br	208.115.223.146	208.115.223.146	5	0				0%	5	Succeeded	129.974	112	128.957		11/06/2025 22:33:41		128.300	129.974	243	No	
+webmail.smpr.prefeitura.sp.gov.br	172.217.172.51	172.217.172.51	5	0				0%	5	Succeeded	4.001	117	4.709		11/06/2025 22:33:47		3.993	6.216	982	No	
+webmail.smsub.prefeitura.sp.gov.br	172.217.172.51	172.217.172.51	5	0				0%	5	Succeeded	6.341	117	5.269		11/06/2025 22:33:48		4.191	6.341	985	No	
+www.aihcomplexo.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	11.851	58	9.941		11/06/2025 22:33:40		8.969	11.851	27	No	
+www.apps.maepaulistana.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.742	58	9.887		11/06/2025 22:33:44		4.903	24.059	543	No	
+www.busca.telessaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	4.826	58	5.663		11/06/2025 22:33:48		4.010	6.853	1065	No	
+www.carnaval2024.prefeitura.sp.gov.br	20.48.202.160	20.48.202.160	5	0				0%	5	Succeeded	129.069	112	128.928		11/06/2025 22:33:40		128.523	129.561	113	No	
+www.ccj.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.157	45	142.255		11/06/2025 22:33:41		141.692	142.826	123	No	
+www.cge.prefeitura.sp.gov.br	3.163.63.73	3.163.63.73	5	0				0%	5	Succeeded	5.172	249	6.578		11/06/2025 22:33:41		4.955	10.063	141	No	
+www.circuitospdecultura.prefeitura.sp.gov.br	208.113.225.6	208.113.225.6	5	0				0%	5	Succeeded	131.084	47	130.604		11/06/2025 22:33:41		129.566	131.767	152	No	
+www.contratosartisticosftm.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	5.683	115	6.224		11/06/2025 22:33:41		5.532	7.075	187	No	
+www.dev.descomplicasp.prefeitura.sp.gov.br	54.94.3.75	54.94.3.75	5	0				0%	5	Succeeded	5.331	248	4.524		11/06/2025 22:33:41		4.024	5.331	233	No	
+www.emcartaz.prefeitura.sp.gov.br	191.252.51.33	191.252.51.33	5	0				0%	5	Succeeded	6.267	56	10.894		11/06/2025 22:33:42		6.267	22.133	301	No	
+www.ems.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.183	58	10.000		11/06/2025 22:33:42		6.183	19.338	309	No	
+www.emscovid19.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.109	58	9.421		11/06/2025 22:33:42		6.109	16.740	312	No	
+www.filazero.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	4.980	58	5.135		11/06/2025 22:33:42		4.341	5.555	363	No	
+www.guiarapido.telessaude.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	5.872	58	6.109		11/06/2025 22:33:48		4.419	6.872	1072	No	
+www.intranet.maepaulistana.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.907	58	10.174		11/06/2025 22:33:44		6.464	23.006	547	No	
+www.jornadadopatrimonio.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	143.191	45	147.688		11/06/2025 22:33:44		142.093	161.336	517	No	
+www.jovemmonitor.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	143.727	45	148.142		11/06/2025 22:33:44		142.175	161.499	519	No	
+www.jovemmonitorcultural.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	143.157	45	147.227		11/06/2025 22:33:44		141.823	160.626	521	No	
+www.leipaulogustavo.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	7.721	115	12.522		11/06/2025 22:33:44		7.347	25.439	530	No	
+www.leitos.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.657	58	10.177		11/06/2025 22:33:44		6.329	24.508	533	No	
+www.maepaulistana.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	6.063	58	10.337		11/06/2025 22:33:44		6.063	24.014	548	No	
+www.monitoratv-treinamento.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	4.689	58	9.948		11/06/2025 22:33:44		4.689	26.305	588	No	
+www.monitoratv.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	5.864	58	9.953		11/06/2025 22:33:44		5.777	22.566	585	No	
+www.museudacidade.prefeitura.sp.gov.br	198.58.122.245	198.58.122.245	5	0				0%	5	Succeeded	142.510	45	142.073		11/06/2025 22:33:44		140.904	142.510	595	No	
+www.observatorio.smped.prefeitura.sp.gov.br	15.229.79.68	15.229.79.68	5	0				0%	5	Succeeded	4.737	57	5.688		11/06/2025 22:33:47		4.737	6.997	965	No	
+www.pitchsampa.prefeitura.sp.gov.br	23.236.62.147	23.236.62.147	5	0				0%	5	Succeeded	141.611	107	141.582		11/06/2025 22:33:45		140.722	142.046	662	No	
+www.planomunicipaldecultura.prefeitura.sp.gov.br	191.252.51.33	191.252.51.33	5	0				0%	5	Succeeded	6.386	56	6.604		11/06/2025 22:33:45		5.936	7.262	670	No	
+www.plataforma.telessaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.237	58	5.403		11/06/2025 22:33:48		4.007	6.565	1079	No	
+www.portadeentrada.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	6.269	115	8.804		11/06/2025 22:33:45		5.615	19.798	677	No	
+www.selo.smped.prefeitura.sp.gov.br	191.240.155.126	191.240.155.126	5	0				0%	5	Succeeded	4.851	56	5.841		11/06/2025 22:33:47		4.851	6.455	981	No	
+www.semanageek.prefeitura.sp.gov.br	45.79.7.123	45.79.7.123	5	0				0%	5	Succeeded	141.896	45	143.008		11/06/2025 22:33:46		141.896	144.247	837	No	
+www.sifilis-treinamento.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	9.799	58	8.000		11/06/2025 22:33:47		5.966	9.799	877	No	
+www.sifilis.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	9.927	58	8.026		11/06/2025 22:33:47		6.557	9.927	874	No	
+www.smceditais.prefeitura.sp.gov.br	20.206.176.4	20.206.176.4	5	0				0%	5	Succeeded	6.436	115	5.874		11/06/2025 22:33:47		5.228	6.436	917	No	
+www.smcti.prefeitura.sp.gov.br	191.252.51.202	191.252.51.202	5	0				0%	5	Succeeded	7.069	56	6.475		11/06/2025 22:33:47		5.449	7.283	921	No	
+www.sp156.prefeitura.sp.gov.br	66.22.76.251	66.22.76.251	5	0				0%	5	Succeeded	7.156	53	7.058		11/06/2025 22:33:48		5.613	8.129	1004	No	
+www.suporte.alosaude.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	11.742	58	9.927		11/06/2025 22:33:40		8.891	11.742	36	No	
+www.telemedicina.ahm.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	12.306	58	9.877		11/06/2025 22:33:40		7.186	12.306	23	No	
+www.teleneuro.prefeitura.sp.gov.br	104.21.8.8	104.21.8.8	5	0				0%	5	Succeeded	5.680	58	5.793		11/06/2025 22:33:48		4.080	7.081	1061	No	
+www.telessaude.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	6.280	58	5.050		11/06/2025 22:33:48		4.090	6.280	1080	No	
+www.vagazero.prefeitura.sp.gov.br	172.67.156.153	172.67.156.153	5	0				0%	5	Succeeded	4.805	58	4.991		11/06/2025 22:33:49		4.005	7.907	1117	No	
+
+
+

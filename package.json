@@ -1,0 +1,26 @@
+{
+  "name": "palaciodamemoria",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "description": "Site palaciodamemoria.prefeitura.sp.gov.br",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoFOBorges/Pal-cio-Da-Mem-ria.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GustavoFOBorges/Pal-cio-Da-Mem-ria/issues"
+  },
+  "homepage": "https://github.com/GustavoFOBorges/Pal-cio-Da-Mem-ria#readme"
+}
