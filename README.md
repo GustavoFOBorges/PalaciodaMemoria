@@ -90,7 +90,7 @@ Você pode contribuir de diversas formas:
 Prefeitura de São Paulo  
 📍 São Paulo – SP  
 
-📧 [contato@prefeitura.sp.gov.br](mailto:gustavofreire@prefeitura.sp.gov.br)  
+📧 [gustaofreire@prefeitura.sp.gov.br](mailto:gustavofreire@prefeitura.sp.gov.br)  
 🌐 [https://palaciodamemoria.prefeitura.sp.gov.br](https://palaciodamemoria.prefeitura.sp.gov.br)
 
 ---
