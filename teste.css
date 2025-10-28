@@ -1,0 +1,151 @@
+/* Código CSS colocado aqui será aplicado a todos os temas */
+.vector-header-container {
+    background-color: #0881c8;
+}
+
+@media screen and (min-width:1680px) {
+    .mw-header .vector-header-start {
+        width: 301px;
+        grid-area: headerStart;
+    }
+}
+
+@media screen and (min-width:1680px) {
+    .client-js .vector-search-box.vector-search-box-auto-expand-width {
+        margin-left: 462px;
+    }
+}
+
+.vector-header,
+.mw-header {
+    background-color: #0881c8;
+}
+
+.vector-header-container .mw-header,
+.vector-header-container .vector-sticky-header {
+    background-color: #0881c8;
+    padding-left: 0px;
+}
+
+.vector-user-links-main {
+    & span {
+        color: #fff
+    }
+}
+
+.mw-logo-icon {
+    fill: #ffffff;
+    stroke: #ffffff;
+    color: #fff;
+    width: 106.52px;
+    height: 100%;
+}
+
+.mw-logo-wordmark {
+    color: #fff
+}
+
+#top-banner {
+    background-color: #0881C8;
+    color: #fff;
+    height: 32px;
+    font-size: 0.9em;
+}
+
+#top-banner {
+    border-bottom: solid 1px white;
+
+    & i {
+        font-style: normal;
+    }
+}
+
+#top-banner a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#top-banner a:hover {
+    text-decoration: underline;
+}
+
+.contact-info {
+    margin: 0 115px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+}
+
+.mw-logo-wordmark {
+    color: #fff
+}
+
+.cdx-button:enabled,
+.cdx-button.cdx-button--fake-button--enabled {
+    background-color: #fff;
+    color: #0881c8
+}
+
+footer {
+    font-weight: none
+}
+
+.vector-dropdown-label-text {
+    color: black
+}
+
+@media screen and (max-width:1120px) {
+    .vector-header {
+        & .vector-button-flush-left {
+            margin-left: 3770%
+        }
+
+        & .vector-main-menu-landmark {
+            position: absolute
+        }
+    }
+
+    #vector-main-menu-dropdown {
+
+        & .vector-dropdown,
+        .vector-dropdown-content {
+            position: absolute;
+            top: 100%;
+            left: -173px;
+        }
+    }
+
+    .oo-ui-popupWidget-anchored-top {
+        margin-left: 1550px;
+        margin-top: 9px;
+    }
+}
+
+@media screen(max-width:1120px) {
+    .ifeBgy {
+        right: 41px;
+    }
+}
+
+#mw-panel {
+    & .vector-pinnable-header-unpin-button {
+        display: none
+    }
+}
+
+@media screen and (min-width: 1121px) {
+
+    /*.vector-button-flush-left {
+   margin-left:3970%;
+    }*/
+    .mw-header .vector-header-start {
+        width: 350px;
+        grid-area: headerStart;
+    }
+
+    .vector-icon {
+        background-color: #FFF
+    }
+
+    vector-dropdown:hover {
+        backgound-color: #044a73
+    }

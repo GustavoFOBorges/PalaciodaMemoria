@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>ARQUIP | Palácio da Memória</title>
-  <meta name="description" content="Palácio da Memória - Espaço dedicado à preservação">
-  <meta name="keywords" content="Arquip, Palácio da memória,memória institucional, história, acervo, prefeitura, patrimônio, preservação">
+  <title>Palácio da Memória</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.ico" rel="icon">
@@ -15,271 +15,446 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
+  <style>
+/* --- Estilo do popup --- */
 
- 
+#hero {
+  position: relative;
+  overflow: hidden;
+}
+
+#bg-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+  opacity: 0.4; /* ajuste para mais ou menos transparência */
+}
+
+/* Garantir que o conteúdo fique sobre o vídeo */
+.conteudo-hero {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+}
+
+/* Fundo escurecido opcional */
+#hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background:#0881c8; /* escurece o fundo */
+  z-index: 1;
+}
+.popup {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  padding-top: 60px;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.85);
+  text-align: center;
+}
+
+.popup-conteudo {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #000;
+  transition: transform 0.3s ease;
+}
+
+.fechar {
+  position: absolute;
+  top: 30px;
+  right: 40px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.zoomavel {
+  cursor: zoom-in;
+  transition: transform 0.3s ease;
+}
+
+.zoomavel:hover {
+  transform: scale(1.03);
+}
+</style>
 </head>
 
 <body class="index-page">
 
-  <header id="header" class="header topbar">
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-  <!-- start Top Bar -->
-
-  <div class="topbar d-flex align-items-center dark-background">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="d-flex align-items-center"><a href="https://prefeitura.sp.gov.br">Prefeitura de São Paulo</a></i>
-        <i class="d-flex align-items-center ms-4"><a href="https://esic.prefeitura.sp.gov.br">E-Sic</a></i>
-        <i class="d-flex align-items-center ms-4"><a href="https://arquip.prefeitura.sp.gov.br">Arquip</a></i>
-      </div>
-    </div>
-  </div>
-
-  <!-- End Top Bar -->
-
-  <div class="branding">
-
-    <div class="container position-relative d-flex align-items-center justify-content-between">
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="index.html" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/palaciodamemoria-logo.png" alt="">
-
+        <img src="assets/img/logo_pmsp_branco.png" alt="Logomarca da Prefeitura de São Paulo monocromatico branco">
+        <!--<h1 class="sitename">  Palácio da Memória</h1>-->
       </a>
 
+      <nav id="navmenu" class="navmenu">
+        
+		
+		<ul>
+		<li><a href="#hero">Início</a></li>
+          <li><a href="#baus">Nossos Baús</a></li>
+          <!--<li><a href="#ferramentas">Ferramentas</a></li>
+          <li><a href="#sabermais">Saiba mais</a></li>
+    -->
+           </ul> 
+         
+         
+      </nav>
+
 
 
     </div>
-
-  </div>
-
-</header>
+    <tr>
+  </header>
 
   <main class="main">
 
-    <!-- Hero Section -->
-    <section id="hero" class="hero section">
+    <main class="main">
 
-      <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+    <section id="hero" class="hero section dark-background">
 
-        <div class="carousel-item active">
-          <img src="assets/img/patriarca-antiga.jpg" alt="">
-          <div class="carousel-container">
-            <p>Bem-vindo ao<h2><span>Palácio da Memória</span></h2>
-            <p>Um lugar para guardar a memória institucional da Prefeitura de São Paulo</p>
-            <a href="#inicio" class="btn-get-started">Apresentação</a>
-          </div>
-        </div><!-- End Carousel Item -->
+  <!-- Vídeo de fundo
+  <video autoplay muted loop playsinline id="bg-video">
+    <source src="assets/video/fundo.mp4" type="video/mp4">
+    Seu navegador não suporta vídeos HTML5.
+  </video> -->
 
-        
-        <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
-        </a>
-
-        <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
-          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-        </a>
-
+  <div class="container text-center conteudo-hero">
+    <div class="row justify-content-center" data-aos="zoom-out">
+      <div class="col-lg-8">
+        <img src="assets/img/Arquip3_branco_pqn.png" alt="" class="img-fluid mb-3">
+        <p>Bem vindo ao</p>
+        <h2>Palácio da Memória</h2>
+        <a href="#about" class="btn-get-started">Introdução</a>
       </div>
+    </div>
+  </div>
 
-      
-      </div>
+</section>
+	
+	
+     <section id="about" class="section">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Introdução</h2>
+    <p>Um espaço digital dedicado a preservar, organizar e compartilhar o conhecimento da Prefeitura de São Paulo.</p>
+  </div>
+  <div class="container" data-aos="fade-up">
+    <p>
+      Cada documento, manual ou dado histórico é tratado como um verdadeiro tesouro, acessível a todos para consulta, aprendizado e colaboração.
+     
+      Explore nossos Baús: descubra informações valiosas, acompanhe a evolução dos documentos e sites, e utilize ferramentas que facilitam o trabalho com dados e conteúdos oficiais.
+    </p>
+  </div>
+</section>
 
-    </section><!-- /Hero Section -->
-
+<!-- Mantendo toda a estilização original -->
+ 
     
 
-    
+    <!-- Features Section -->
+    <section  class="features section" id="baus">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Nossos Baús</h2>
+    <p>Informação é o verdadeiro tesouro dos tempos modernos</p>
+  </div>
 
-    <!-- Services Section -->
-    <section id="conteudo" class="services section">
+  <div class="container" >
+
+    <!-- Baú do Conhecimento -->
+    <div class="row gy-4 align-items-center features-item">
+      <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
+        <img src="assets/img/bau-1.png" class="img-fluid zoomavel" alt="Baú do Conhecimento" onclick="abrirImagem(this.src)">
+      </div>
+      <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
+        <h3>Baú do Conhecimento</h3>
+        <p class="fst-italic">
+          Aqui você poderá consultar e compartilhar manuais, cartilhas e guias de boas práticas úteis para o seu trabalho.
+        </p>
+        <a href="/basedeconhecimento"><i>Acesse</i></a>
+      </div>
+    </div>
+
+    <!-- Baú das Coleções -->
+   <div class="row gy-4 align-items-center features-item">
+  <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+    <img src="assets/img/bau-2.png" class="img-fluid zoomavel" alt="Baú das Coleções" onclick="abrirImagem(this.src)">
+  </div>
+  <div class="col-md-7 order-2 order-md-1" data-aos="fade-up" data-aos-delay="200">
+    <h3>Baú das Coleções</h3>
+    <p class="fst-italic">
+      Estamos digitalizando documentos acumulados que juntos contam a história da administração pública da nossa cidade. Venha conferir.
+    </p>
+    <ul class="list-unstyled">
+      <li><i class="bi bi-check-circle"></i> Coleções históricas de processos administrativos antigos</li>
+      <li><i class="bi bi-check-circle"></i> Documentos, fotos e mapas digitalizados</li>
+      <li><i class="bi bi-check-circle"></i> Arquivos que ajudam a compreender a evolução da cidade</li>
+    </ul>
+    <a href="/colecoes"><i>Acesse</i></a>
+  </div>
+</div>
+    <!-- Baú de Dados -->
+    <div class="row gy-4 align-items-center features-item">
+  <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out">
+    <img src="assets/img/bau-3.png" class="img-fluid zoomavel" alt="Baú de Dados" onclick="abrirImagem(this.src)">
+  </div>
+  <div class="col-md-7" data-aos="fade-up">
+    <h3>Baú de Dados</h3>
+    <p class="fst-italic">
+      Nossos painéis permitem visualizar e analisar dados da administração pública, ajudando a compreender as dinâmicas das atividades e a tomar decisões mais informadas.
+    </p>
+    <ul class="list-unstyled">
+      <li><i class="bi bi-check-circle"></i> Painéis de indicadores administrativos atualizados</li>
+      <li><i class="bi bi-check-circle"></i> Visualização de tendências e métricas de desempenho</li>
+      <li><i class="bi bi-check-circle"></i> Dados confiáveis para apoiar decisões estratégicas</li>
+    </ul>
+    <a href="/maintence.html"><i>Acesse</i></a>
+  </div>
+</div>
+
+    <!-- Baú dos Sites -->
+    <div class="row gy-4 align-items-center features-item">
+      <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+        <img src="assets/img/bau-4.png" class="img-fluid zoomavel" alt="Baú dos Sites" onclick="abrirImagem(this.src)">
+      </div>
+      <div class="col-md-7 order-2 order-md-1" data-aos="fade-up" data-aos-delay="200">
+        <h3>Baú dos Sites</h3>
+        <p class="fst-italic">Sites são a nossa presença no mundo.</p>
+        <p>
+          A fachada da casa diz muito sobre como é seu interior, quais os gostos do seu dono e até o que ele faz. Reunimos os sites do domínio .prefeitura para você ver como eles foram evoluindo ao longo do tempo.
+        </p>
+        <a href="/sites"><i>Acesse</i></a>
+      </div>      
+
+    </div>
+
+  </div>
+</section>
+
+<!-- Popup de Zoom -->
+<div id="popup-imagem" class="popup" onclick="fecharImagem()">
+  <span class="fechar">&times;</span>
+  <img id="imagem-ampliada" class="popup-conteudo" alt="">
+</div>
+    <!-- Services Section  
+    <section id="ferramentas" class="services section">
+
+      <!-- Section Title -
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Ferramentas de trabalho</h2>
+        <p>Utilidades para trabalhar com documentos<br></p>
+      </div><!-- End Section Title -
 
       <div class="container">
 
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item  position-relative">
-              <div class="icon">
-                <i class="bi bi-file-earmark-font"></i>
-              </div>
-              <a href="/maintenance.html" class="stretched-link">
-                <h3>Base de conhecimento</h3>
-              </a>
-              <p>Reunimos manuais, cartilhas, pareceres, notas técnicas e outros documentos explicativos sobre diversos assuntos da administração municipal  </p>
+            <div class="service-item item-cyan position-relative">
+              <i class="bi bi-file-earmark-medical icon"></i>
+              <h3>Reconhecimento de texto em imagens e pdf</h3>
+              <p>Use nosso Tessaract para reconhecer texto de imagens e arquivos PDF, sem risco de vazamento de dados</p>
+              <a href="http://10.69.32.149:5000/" class="read-more stretched-link"><span>Acessar</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="bi bi-file-earmark-medical"></i>
-              </div>
-              <a href="/maintenance.html" class="stretched-link">
-                <h3>Coleções digitais</h3>
-              </a>
-              <p>Acesse diversos documentos nato digitais e digitalizados, reunidos em áreas temáticas como a Hemeroteca do Diário Oficial de São Paulo.</p>
-            </div>
-          </div><!-- End Service Item - ->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="bi bi-file-earmark-bar-graph"></i>
-              </div>
-              <a href="#" class="stretched-link">
-                <h3>Números</h3>
-              </a>
-              <p>Veja a evolução do controle de documentos, como o comparativo da quantidade de processos fisicos em andamento em relação aos eletrÃ´nicos e o tempo médio de análise</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="bi bi-file-earmark-code"></i>
-              </div>
-              <a href="#" class="stretched-link">
-                <h3>Sites</h3>
-              </a>
-              <p>Lista dos sites do dominio <b>.prefeitura</b>, com suas versões ao longo do tempo</p>
-              <a href="sites" class="stretched-link"></a>
-            </div>
-          </div><!-- End Service Item -- >
-
-           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="bi bi-file-earmark-medical"></i>
-              </div>
-              <a href="./leitor_json/index.html" class="stretched-link">
-                <h3>Consulta de pareceres</h3>
-              </a>
-              <p>Acesse diversos documentos           </div>
-          </div><!-- End Service Item -->
+          <!-- End Service Item -->
 
         </div>
 
       </div>
 
-    </section><!-- /Services Section -->
+    </section><!-- /Services Section - 
+    
+    
+    
+     
+<!-- Section Title  TROQUE POR  - - >
+      <section id="sabermais" class="features section">
+	  <div class="container section-title" data-aos="fade-up">
+        <h2>Para Saber mais</h2>
+        <p>Baú do conhecimento</p>
+      </div><!-- End Section Title  TROQUE POR  - - >   
+<!-- Features Section  TROQUE POR  - - >
+    
 
+      <div class="container">
 
- 
-        <!--  Departments Section - ->
-    <section id="colabore" class="departments section">
+        <ul class="nav nav-tabs row  d-flex" data-aos="fade-up" data-aos-delay="100">
+          <li class="nav-item col-3">
+            <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
+              <i class="bi bi-1-circle"></i>
+              <h4 class="d-none d-lg-block">Quem somos</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
+              <i class="bi bi-2-circle"></i>
+              <h4 class="d-none d-lg-block">Como usar</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
+              <i class="bi bi-3-circle"></i>
+              <h4 class="d-none d-lg-block">Como colaborar</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-4">
+              <i class="bi bi-4-circle"></i>
+              <h4 class="d-none d-lg-block">Programa utilizado</h4>
+            </a>
+          </li>
+        </ul><!-- End Tab Nav - TROQUE POR  - - >
 
-      <!-- Section Title - ->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Colabore!</h2>
-        <p>Possui documentos, fotografias, vídeos e outros materiais sobre Prefeitura de São Paulo e gostaria de guardar para sempre? veja como:</p>
-      </div><!-- End Section Title - ->
+        <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row">
-          <div class="col-lg-3">
-            <ul class="nav nav-tabs flex-column">
-              <li class="nav-item">
-                <a class="nav-link active show" data-bs-toggle="tab" href="#departments-tab-1">1 - Separe</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#departments-tab-2">2 - Organize</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#departments-tab-3">3 - Identifique</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#departments-tab-4">4 - Envie</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#departments-tab-5">5 - Divulgue</a>
-              </li>
-            </ul>
-          </div>
-          <div class="col-lg-9 mt-4 mt-lg-0">
-            <div class="tab-content">
-              <div class="tab-pane active show" id="departments-tab-1">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Separe os itens que pretende guardar</h3>
-                    <p>A melhor forma de guardar as coisas começa com a identificação do que pretende guardar. Comece pensando, " seria interessante mostrar isso a alguém? Alguns documentos podem ter alto valor probatório, mas não estar relacionadoà  administração pública municipal, que 
-					é o objetivo deste site</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
+          <div class="tab-pane fade active show" id="features-tab-1">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                <h3>Uma lugar para centralizar todo saber coletivo da Prefeitura de São Paulo</h3>
+                <p class="fst-italic">
+                  O Palácio da Memória é um conjunto de programas opensource que permitem guardar em meio digital qualquer informação, da forma como foi concebida, gerando colaboração e aperfeiçoamento constantes. 
+                </p>
+				<p>Por exemplo, processos e documentos técnicos são pacotes informacionais fechados, enquanto manuais e cartilhas precisam ser constantemente revisados. Por isso, para guardar manuais e cartilhas, mas também materiais de conhecimento específico de algumas unidades ou orientações gerais para toda a Prefeitura, optamos por usar o programa Wikimedia, que permite a edição colaborativa para aperfeiçoar o conteúdo. </p>
+                <p>Já os painéis de dados também precisam ser dinâmicos na visualização, atendendo à expectativa específica do usua´rio, e gerar valor personalizado, aplicando extrações e métricas que possam ser eplicados para garantir a confiabilidade. </p>
+				<p> O último passo será agregar um LLM que utilize toda esta fonte informacional específica para dar respostas baseadas na informação primária da Prefeitura de São Paulo, de modo que possa ajudar de forma significativa e com baixíssima possibilidade de erro, inclusive citando as fontes originais e confiáveis.
+                
               </div>
-              <div class="tab-pane" id="departments-tab-2">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Orgazine suas memórias</h3>
-                    <p>Nós temos espaços apropriados para guardar diferentes tipos de mídias, mas 
-					é importante que elas venham contextualizadas, por isso tente agrupar seu material por temas, localidades ou períodos.</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="departments-tab-3">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Identifique os materiais</h3>
-                    <p>nononononononononononono oononononon nnononon</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="departments-tab-4">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Envie-nos oa materiais/h3>
-                    <p> nnononononon onononon nonononoon nonononono</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="departments-tab-5">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Divulgue os materiais que está no site</h3>
-                    <p>nononononononon ononononon ononononononono nonononono onononononono</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <img src="assets/img/faq-1.png" alt="" class="img-fluid">
               </div>
             </div>
-          </div>
+          </div><!-- End Tab Content Item  TROQUE POR  - - >
+
+          <div class="tab-pane fade" id="features-tab-2">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                <h3>Acesse o Baú do conteúdo que deseja consultar</h3>
+				<p class="fst-italic">
+                  Dividimos nossas plataformas em Baús para brincar coom as designações Palácio e tesouro, complentando a idéia do valor da informação. 
+                </p>
+                <p>
+                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                  culpa qui officia deserunt mollit anim id est laborum
+                </p>
+                <p class="fst-italic">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                  magna aliqua.
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <img src="assets/img/faq-2.png" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Tab Content Item  TROQUE POR  - - >
+
+          <div class="tab-pane fade" id="features-tab-3">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
+                <p>
+                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                  culpa qui officia deserunt mollit anim id est laborum
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                </ul>
+                <p class="fst-italic">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                  magna aliqua.
+                </p>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <img src="assets/img/working-3.jpg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Tab Content Item  TROQUE POR  - - >
+
+          <div class="tab-pane fade" id="features-tab-4">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                <p>
+                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                  culpa qui officia deserunt mollit anim id est laborum
+                </p>
+                <p class="fst-italic">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                  magna aliqua.
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+                <img src="assets/img/working-4.jpg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Tab Content Item -->
+
         </div>
 
       </div>
 
-    </section><!-- /Departments Section --> 
-    
-    
-    <!-- /Clients Section -->
+    </section><!-- /Features Section -->
+
 
   </main>
+<script>
+function abrirImagem(src) {
+  const popup = document.getElementById("popup-imagem");
+  const img = document.getElementById("imagem-ampliada");
+  img.src = src;
+  popup.style.display = "block";
+}
 
+function fecharImagem() {
+  document.getElementById("popup-imagem").style.display = "none";
+}
+</script>
   <footer id="footer" class="footer position-relative dark-background">
 
     
@@ -292,8 +467,6 @@
           <p>São Paulo/SP- Brasil</p>
       </div>
     </div>
-
-    <tr>
 
   </footer>
 
@@ -316,12 +489,7 @@
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
-<script src="https://plugin.handtalk.me/web/latest/handtalk.min.js"></script>
-<script>
- var ht = new HT({
- token: "aa1f4871439ba18dabef482aae5fd934"
- });
-</script>
+
 </body>
 
 </html>
